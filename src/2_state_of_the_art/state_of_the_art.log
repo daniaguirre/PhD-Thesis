@@ -1,0 +1,81 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  5 JUN 2017 16:40
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**state_of_the_art.tex
+(./state_of_the_art.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+./state_of_the_art.tex:4: Undefined control sequence.
+l.4 \chapter
+            {State of the Art} % top level followed by section, subsection
+? 
+
+./state_of_the_art.tex:4: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \chapter{S
+              tate of the Art} % top level followed by section, subsection
+? 
+Missing character: There is no S in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 4--7
+[]
+ []
+
+./state_of_the_art.tex:9: Undefined control sequence.
+l.9 \ifpdf
+          
+? 
+./state_of_the_art.tex:10: Undefined control sequence.
+l.10     \graphicspath
+                      {{2_state_of_the_art/figures/PNG/}{2_state_of_the_art/...
+
+? 
+
+./state_of_the_art.tex:10: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10     \graphicspath{{2
+                         _state_of_the_art/figures/PNG/}{2_state_of_the_art/...
+
+? 
+./state_of_the_art.tex:10: Emergency stop.
+ ...                                              
+                                                  
+l.10     \graphicspath{{2
+                         _state_of_the_art/figures/PNG/}{2_state_of_the_art/...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+ 
+Here is how much of TeX's memory you used:
+ 6 strings out of 493014
+ 296 string characters out of 6133351
+ 53601 words of memory out of 5000000
+ 3648 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 5i,0n,4p,138b,18s stack positions out of 5000i,500n,10000p,200000b,80000s
+./state_of_the_art.tex:10:  ==> Fatal error occurred, no output PDF file produc
+ed!

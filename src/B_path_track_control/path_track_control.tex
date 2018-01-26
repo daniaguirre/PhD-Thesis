@@ -1,0 +1,18 @@
+% this file is called up by thesis.tex
+% content in this file will be fed into the main document
+
+%: ----------------------- name of chapter  -------------------------
+\chapter{Path-tracking Controller}
+% top level followed by section, subsection
+\label{appx:path_track_control}
+%: ----------------------- paths to graphics ------------------------
+
+%change according to folder and file names
+\ifpdf
+    \graphicspath{{B_path_track_control/figures/PNG/}{B_path_track_control/figures/PDF/}{B_path_track_control/figures/}}
+\else
+    \graphicspath{{B_path_track_control/figures/EPS/}{B_path_track_control/figures/}}
+\fi
+
+
+%Car curves: Dubins~\cite{Dubins1957}, Reeds~\cite{Reeds1990}

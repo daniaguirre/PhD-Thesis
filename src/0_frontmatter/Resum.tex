@@ -1,0 +1,68 @@
+%*******************************************************
+% Abstract
+%*******************************************************
+%\renewcommand{\abstractname}{Abstract}
+\pdfbookmark[1]{Resum}{Resum}
+\begingroup
+\let\clearpage\relax
+\let\cleardoublepage\relax
+\let\cleardoublepage\relax
+
+\chapter*{Resum}
+
+Des dels inicis a finals dels anys 50, les capacitats i aplicacions dels
+vehicles autònoms submarins o AUVs (per les seves sigles en anglès) han
+experimentat un procés d'evolució continu. Les aplicacions més comunes són
+l’obtenció d'imatges i inspecció de diferents tipus d'estructures, com per
+exemple, cascos de vaixells o estructures naturals en el fons marí, i
+l'adquisició d'informació oceanogràfica com dades biològiques, químiques i
+arqueològiques.
+
+Moltes d'aquestes aplicacions requereixen informació \textit{a priori} de l'àrea
+o estructura que es vol inspeccionar, ja sigui per navegar a una altitud segura
+o per calcular en avançat un camí que permeti realitzar els estudis, el qual pot
+ser corregit o modificat a temps real. No obstant, existeixen aplicacions
+similars o noves, com l'exploració d'entorns naturals confinats (\eg coves
+submarines), on aquesta informació pot ser inexistent. En aquests casos, els
+AUVs han d'operar en entorns desconeguts, pel que estan més exposats a
+col·lisions.
+
+Tot i que aquestes aplicacions de AUVs comparteixen alguns requeriments comuns
+amb altres aplicacions de robots aeris i terrestres (\eg localització, mapeig,
+visió, etc.), navegar autònomament al mateix temps que s'executen aquest tipus
+de tasques en entorns submarins difereix en certs factors, com la presencia de
+pertorbacions externes (corrents), baix rang de visibilitat i limitacions en la
+precisió del sistema de navegació. Per poder tractar les esmentades restriccions
+és necessari un planificador de moviments amb capacitat de processament en temps
+real, el que ajudi a superar les limitacions en la informació de l'entorn i la
+falta de precisió de posicionament, en especial quan es navega a prop dels
+obstacles presents en el seu voltant.
+
+En aquest sentit, aquesta tesis presenta una alternativa per dotar un AUV amb
+l'habilitat de moure’s a través d'entorns no explorats. Per aconseguir aquesta
+fita, aquesta tesis proposa un mètode per calcular en temps real camins
+factibles i segurs. El mètode proposat permet al vehicle construir de forma
+incremental un mapa de l'entorn, i al mateix temps replanificar un camí factible
+cap a l'objectiu establert. Per assolir això, el mètode proposat te en compte
+les restriccions de moviment del vehicle per planificar camins 2D i 3D que
+siguin factibles o realitzables.
+
+Per avaluar el mètode proposat, s'han realitzat diferents experiments amb els
+AUVs Sparus~II i l'AsterX, els quals són vehicles de tipus torpede que van
+realitzar missions de forma autònoma en diferents escenaris. Aquests experiments
+inclouen proves en simulació i a l'aigua en diferents entorns, tal i com
+estructures marines artificials, estructures marines naturals i entorns naturals
+confinats.
+
+
+\vfill
+
+% \begin{otherlanguage}{ngerman}
+% \pdfbookmark[1]{Zusammenfassung}{Zusammenfassung}
+% \chapter*{Zusammenfassung}
+% Kurze Zusammenfassung des Inhaltes in deutscher Sprache\dots 
+% \end{otherlanguage}
+
+\endgroup			
+
+\vfill

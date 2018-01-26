@@ -1,0 +1,475 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {american}
+\defcounter {refsection}{0}\relax 
+\deactivateaddvspace 
+\defcounter {refsection}{0}\relax 
+\select@language {american}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {1}{\ignorespaces VICTOR 6000: a remotely operated vehicle (ROV) and its surface vessel.}}{1}{figure.caption.15}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{1}{subfigure.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{1}{subfigure.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2}{\ignorespaces Underwater glider and its sinusoidal-like vertical motion.}}{2}{figure.caption.17}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3}{\ignorespaces Sparus~II: a torpedo-shaped and propeller-driven autonomous underwater vehicle (AUV).}}{3}{figure.caption.19}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4}{\ignorespaces The basic path/motion planning problem and the C-Space concept.}}{9}{figure.caption.28}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5}{\ignorespaces Reactive and sensor-based method Bug1.}}{10}{figure.caption.29}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {6}{\ignorespaces Reactive and sensor-based method Bug2.}}{11}{figure.caption.30}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Bug2 simple scenario}}}{11}{subfigure.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Bug2 complex scenario}}}{11}{subfigure.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {7}{\ignorespaces Reactive and sensor-based method Tangent Bug.}}{11}{figure.caption.31}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Boundaries detection}}}{11}{subfigure.7.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Execution}}}{11}{subfigure.7.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {8}{\ignorespaces Grid-based method: coarse and fine grid.}}{12}{figure.caption.32}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Coarse grid}}}{12}{subfigure.8.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Fine grid}}}{12}{subfigure.8.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {9}{\ignorespaces Comparison between Dijkstra's algorithm and A*.}}{14}{figure.caption.33}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Dijkstra algorithm}}}{14}{subfigure.9.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {A*}}}{14}{subfigure.9.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {10}{\ignorespaces Example of potential field.}}{16}{figure.caption.36}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Top view}}}{16}{subfigure.10.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Perspective view}}}{16}{subfigure.10.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {11}{\ignorespaces Example of a visibility graph.}}{17}{figure.caption.40}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{17}{subfigure.11.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{17}{subfigure.11.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {12}{\ignorespaces Example of a voronoi diagram.}}{18}{figure.caption.43}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {13}{\ignorespaces Example of a probabilistic roadmap (PRM) used to solve a start-to-goal query.}}{21}{figure.caption.46}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {14}{\ignorespaces Example of a rapidly-exploring random tree (RRT).}}{24}{figure.caption.52}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {RRT expansion}}}{24}{subfigure.14.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {RRT solving a query}}}{24}{subfigure.14.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {15}{\ignorespaces Example of an asymptotic optimal rapidly-exploring random tree (RRT*).}}{25}{figure.caption.56}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {16}{\ignorespaces Comparison between start-to-goal query solutions under geometric and differential constraints over a 2D workspace.}}{27}{figure.caption.58}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Geometric Constraints}}}{27}{subfigure.16.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Differential Constraints}}}{27}{subfigure.16.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {17}{\ignorespaces Coverage path planning (CPP) applications.}}{30}{figure.caption.63}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Coverage path over of a natural formation. Image credit: Galceran et~al.~\cite {Galceran2013b}}}}{30}{subfigure.17.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Coverage path of a ship hull. Image credit: Hover et~al.~\cite {Hover2012,Englot2013}}}}{30}{subfigure.17.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {18}{\ignorespaces Sensor-based planning for AUVs under motion constraints.}}{31}{figure.caption.64}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {19}{\ignorespaces FM-based planning for AUVs under motion constraints.}}{32}{figure.caption.68}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{32}{subfigure.19.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{32}{subfigure.19.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{32}{subfigure.19.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {20}{\ignorespaces Combination of a grid-based planning method and a local planner to include the AUV motion constraints.}}{33}{figure.caption.72}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{33}{subfigure.20.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{33}{subfigure.20.2}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {21}{\ignorespaces Top view of the Sparus~II AUV, including the inertial and body-fixed frames, and the 2D vehicle state and control variables.}}{36}{figure.caption.74}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {22}{\ignorespaces Control input selection for expanding an RRT under the differential equation.}}{38}{figure.caption.76}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {23}{\ignorespaces Start-to-goal query solution by expanding an RRT algorithm that considers the differential constraints of a car-like system.}}{39}{figure.caption.77}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{39}{subfigure.23.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{39}{subfigure.23.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{39}{subfigure.23.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {24}{\ignorespaces Examples of Dubins curves.}}{40}{figure.caption.79}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {RSL}}}{40}{subfigure.24.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {LRL}}}{40}{subfigure.24.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {25}{\ignorespaces Start-to-goal query solution by expanding an RRT algorithm with Dubins curves.}}{41}{figure.caption.80}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{41}{subfigure.25.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{41}{subfigure.25.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{41}{subfigure.25.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {26}{\ignorespaces RRT* algorithm reconnection using Dubins curves as steering function.}}{42}{figure.caption.81}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{42}{subfigure.26.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{42}{subfigure.26.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{42}{subfigure.26.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {27}{\ignorespaces Comparison between start-to-goal query solutions obtained by an RRT and an RRT* algorithms over a 2D workspace.}}{43}{figure.caption.82}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Solution obtained by an \ac {RRT}}}}{43}{subfigure.27.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Solution obtained by an \ac {RRT*}}}}{43}{subfigure.27.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {28}{\ignorespaces Simulation of the Sparus~II AUV attempting to follow a solution path calculated by an RRT* under geometric constraints.}}{44}{figure.caption.83}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Query 1}}}{44}{subfigure.28.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Query 2}}}{44}{subfigure.28.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {29}{\ignorespaces Simulation of the Sparus~II AUV attempting to follow a solution path calculated by an RRT and RRT* under motion constraints.}}{45}{figure.caption.84}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {RRT: Query 1}}}{45}{subfigure.29.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {RRT: Query 2}}}{45}{subfigure.29.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {RRT* with Dubins: Query 1}}}{45}{subfigure.29.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {RRT* with Dubins: Query 2}}}{45}{subfigure.29.4}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {30}{\ignorespaces Perspective view of the Sparus~II AUV, including the inertial and body-fixed frames, and the 6D vehicle state and control variables.}}{47}{figure.caption.85}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {31}{\ignorespaces 3D Start-to-goal query that requires a straight descent trajectory.}}{51}{figure.caption.86}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {32}{\ignorespaces 3D Start-to-goal query that requires forward and vertical motion.}}{52}{figure.caption.87}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Successful query}}}{52}{subfigure.32.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Unsuccessful query}}}{52}{subfigure.32.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {33}{\ignorespaces Simulation of the Sparus~II AUV attempting to follow a 3D solution path calculated by an RRT* under geometric constraints.}}{53}{figure.caption.88}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Query top view}}}{53}{subfigure.33.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Query front view}}}{53}{subfigure.33.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Query back view}}}{53}{subfigure.33.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {34}{\ignorespaces 3D Start-to-goal query that requires circumnavigating while descending to reach the desired depth and orientation.}}{54}{figure.caption.89}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Query top view}}}{54}{subfigure.34.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Simulation top view}}}{54}{subfigure.34.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Query perspective view}}}{54}{subfigure.34.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Simulation perspective view}}}{54}{subfigure.34.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {35}{\ignorespaces Simulation of the Sparus~II AUV attempting to follow a 3D solution path calculated by an RRT* that uses the extended Dubins curves approach.}}{55}{figure.caption.90}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Query top view}}}{55}{subfigure.35.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Query front view}}}{55}{subfigure.35.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Query back view}}}{55}{subfigure.35.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {36}{\ignorespaces Simulation of the Sparus~II AUV attempting to follow a 3D solution path in a high-relief environment. The path is calculated by an RRT* that uses the extended Dubins curves approach.}}{56}{figure.caption.91}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{56}{subfigure.36.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{56}{subfigure.36.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{56}{subfigure.36.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{56}{subfigure.36.4}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {37}{\ignorespaces Framework for online AUV motion planning.}}{57}{figure.caption.92}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {38}{\ignorespaces Harbor of Sant Feliu de Gu\'ixols (Spain). Aerial view of the breakwater structure, and a representation of the area with an Octomap.}}{58}{figure.caption.93}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Breakwater structure}}}{58}{subfigure.38.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Representation with an Octomap}}}{58}{subfigure.38.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {39}{\ignorespaces Collision checking using Octomaps.}}{59}{figure.caption.95}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{59}{subfigure.39.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{59}{subfigure.39.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {40}{\ignorespaces A start-to-goal query solution using an RRT* algorithm with Dubins curves.}}{60}{figure.caption.96}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {41}{\ignorespaces Sparus~II AUV navigating between two obstacles and a visual representation of the risk zones around the vehicle.}}{61}{figure.caption.97}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {42}{\ignorespaces Start-to-goal queries' solutions obtained by RRT* with Dubins curves. Optimization criteria comparison between path length and risk zones.}}{62}{figure.caption.98}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{62}{subfigure.42.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{62}{subfigure.42.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {43}{\ignorespaces Sparus~II AUV navigating between two obstacles and a visual representation of the risk vectors zones around the vehicle.}}{62}{figure.caption.99}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {44}{\ignorespaces Extension of risk zones and risk vectors for 3D motions.}}{63}{figure.caption.100}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {3D risk zones.}}}{63}{subfigure.44.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {3D risk vectors.}}}{63}{subfigure.44.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {45}{\ignorespaces Opportunistic state checking. An important number of configurations are located in unexplored regions.}}{64}{figure.caption.101}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{64}{subfigure.45.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{64}{subfigure.45.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {46}{\ignorespaces Sparus~II AUV conducting a mission in the simulated breakwater structure using the pruning tree approach.}}{66}{figure.caption.102}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{66}{subfigure.46.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{66}{subfigure.46.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{66}{subfigure.46.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{66}{subfigure.46.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {47}{\ignorespaces Reuse of the last best known solution.}}{67}{figure.caption.103}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{67}{subfigure.47.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{67}{subfigure.47.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{67}{subfigure.47.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{67}{subfigure.47.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {48}{\ignorespaces Satellite image of the breakwater structure that is composed of a series of concrete blocks.}}{69}{figure.caption.106}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {49}{\ignorespaces Start-to-goal queries' solutions using an RRT* algorithm with Dubins curves and risk functions. The solution paths maintain a safe distance from nearby obstacles.}}{70}{figure.caption.110}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Task1}}}{70}{subfigure.49.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Task2}}}{70}{subfigure.49.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {50}{\ignorespaces Average computation time required by the planner when using different alternatives to estimate the risk associated with a path.}}{70}{figure.caption.111}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {51}{\ignorespaces Sparus~II solving a start-to-goal query in an equivalent virtual scenario of the breakwater structure without an initial map.}}{72}{figure.caption.112}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{72}{subfigure.51.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{72}{subfigure.51.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{72}{subfigure.51.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{72}{subfigure.51.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {52}{\ignorespaces Incidence of \textit {Opportunistic State Checking} approach when solving a start-to-goal query.}}{72}{figure.caption.113}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{72}{subfigure.52.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{72}{subfigure.52.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {53}{\ignorespaces Comparison of the \textit {anytime} computation approaches when solving start-to-goal queries without an initial map.}}{73}{figure.caption.114}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Task1, pruning the tree}}}{73}{subfigure.53.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Task2, pruning the tree}}}{73}{subfigure.53.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Task1, reuse last best solution}}}{73}{subfigure.53.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Task2, reuse last best solution}}}{73}{subfigure.53.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {54}{\ignorespaces Comparison of the \textit {anytime} computation approaches when solving start-to-goal queries without an initial map over a simulated natural-like environment.}}{74}{figure.caption.115}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Sea rocks scenario}}}{74}{subfigure.54.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Navigating through the canyon}}}{74}{subfigure.54.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Pruning the tree}}}{74}{subfigure.54.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Reuse last best solution}}}{74}{subfigure.54.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {55}{\ignorespaces Real-world trial to compare the \textit {anytime} computation approaches when solving start-to-goal queries without an initial map. The test scenario was the breakwater structure.}}{75}{figure.caption.118}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Pruning the tree}}}{75}{subfigure.55.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Reuse last best solution}}}{75}{subfigure.55.2}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {56}{\ignorespaces Test scenario of an artificial marine structure.}}{77}{figure.caption.120}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Satellite view. Image credit: Map data \copyright 2017 Google.}}}{77}{subfigure.56.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{77}{subfigure.56.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{77}{subfigure.56.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {57}{\ignorespaces Sparus~II AUV is teleoperated at surface in the breakwater structure scenario.}}{78}{figure.caption.122}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {58}{\ignorespaces Exteroceptive sensors configuration for the Sparus~II AUV to conduct autonomous missions in the breakwater structure.}}{79}{figure.caption.123}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{79}{subfigure.58.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{79}{subfigure.58.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {59}{\ignorespaces The Sparus II AUV using the path/motion planning framework to navigate through a breakwater structure without a preliminary map of the surroundings.}}{81}{figure.caption.124}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{81}{subfigure.59.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{81}{subfigure.59.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{81}{subfigure.59.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{81}{subfigure.59.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {}}}{81}{subfigure.59.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {}}}{81}{subfigure.59.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {60}{\ignorespaces 3D reconstruction built from images gathered along the autonomous mission presented in Fig.~\ref {fig:S2ConcrBlocksMultS2G}.}}{82}{figure.caption.125}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{82}{subfigure.60.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{82}{subfigure.60.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{82}{subfigure.60.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {61}{\ignorespaces Test scenario of a natural marine formation.}}{83}{figure.caption.126}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Satellite view. Image credit: Map data \copyright 2017 Google.}}}{83}{subfigure.61.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{83}{subfigure.61.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{83}{subfigure.61.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {62}{\ignorespaces Exteroceptive sensors configuration for the Sparus~II AUV to conduct autonomous missions in the underwater canyon.}}{83}{figure.caption.127}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{83}{subfigure.62.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{83}{subfigure.62.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {63}{\ignorespaces The Sparus II AUV using the path/motion planning framework to navigate through an underwater canyon without a preliminary map of the surroundings.}}{84}{figure.caption.129}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{84}{subfigure.63.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{84}{subfigure.63.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{84}{subfigure.63.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{84}{subfigure.63.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {64}{\ignorespaces 3D reconstruction built from images gathered along the autonomous mission presented in Fig.~\ref {fig:SPARUS-Canyon-Scenario}.}}{85}{figure.caption.130}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{85}{subfigure.64.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{85}{subfigure.64.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{85}{subfigure.64.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{85}{subfigure.64.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {65}{\ignorespaces Comparison between the vehicle trajectory estimated by the DR system and the one estimated with the cameras' images.}}{86}{figure.caption.131}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {66}{\ignorespaces Satellite image of the underwater caves complex ``Coves de Cala Viuda''.}}{87}{figure.caption.134}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {67}{\ignorespaces The underwater caves complex ``Coves de Cala Viuda''. Meshed map constructed using the SNDC algorithm.}}{88}{figure.caption.135}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {68}{\ignorespaces The underwater caves complex ``Coves de Cala Viuda'' added into UWSim as a 3D simulation environment.}}{88}{figure.caption.136}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {69}{\ignorespaces Simulated mission in the caves complex. First and second start-to-goal queries.}}{89}{figure.caption.137}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Vehicle trajectory, calculated path, goals, and Octomap}}}{89}{subfigure.69.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Sparus~II approaching the entrance of the first cave}}}{89}{subfigure.69.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {70}{\ignorespaces Simulated mission in the caves complex. Third start-to-goal query.}}{90}{figure.caption.138}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Vehicle trajectory, calculated path, goals, and Octomap}}}{90}{subfigure.70.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Sparus~II traversing the underwater tunnel}}}{90}{subfigure.70.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {71}{\ignorespaces Simulated mission in the caves complex. Fourth and fifth start-to-goal queries.}}{91}{figure.caption.139}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Sparus~II traversing the second cave}}}{91}{subfigure.71.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Sparus~II on its way back to the third cave's entrance}}}{91}{subfigure.71.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {72}{\ignorespaces Simulated mission in the caves complex. Whole mission execution.}}{92}{figure.caption.140}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Top view}}}{92}{subfigure.72.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Top view}}}{92}{subfigure.72.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Perspective front view}}}{92}{subfigure.72.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Perspective front view}}}{92}{subfigure.72.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Perspective back view}}}{92}{subfigure.72.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Perspective back view}}}{92}{subfigure.72.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {73}{\ignorespaces Main modules of the \textit {backseat} controller.}}{94}{figure.caption.141}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {74}{\ignorespaces AsterX AUV deployment from its mother ship.}}{95}{figure.caption.142}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{95}{subfigure.74.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{95}{subfigure.74.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{95}{subfigure.74.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {75}{\ignorespaces Potential target and gaps detected after completing the initial survey with the AsterX AUV.}}{96}{figure.caption.143}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {76}{\ignorespaces Path planned to further cover the potential target and gaps with the AsterX AUV.}}{96}{figure.caption.144}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {77}{\ignorespaces The AsterX AUV approaches to further inspect a potential target.}}{97}{figure.caption.145}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {78}{\ignorespaces The AsterX AUV completed the mission by inspecting the potential target and covering the gaps from the initial survey.}}{97}{figure.caption.146}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {79}{\ignorespaces Sparus~II AUV: top, bottom, lateral and 3D views, and its hardware elements.}}{105}{figure.caption.150}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Sparus~II in a water tank at \ac {CIRS}}}}{105}{subfigure.79.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Top view}}}{105}{subfigure.79.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Bottom view}}}{105}{subfigure.79.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Lateral view}}}{105}{subfigure.79.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {3D view}}}{105}{subfigure.79.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {80}{\ignorespaces AsterX AUV at sea surface and its lateral view with a description of the different hardware elements.}}{106}{figure.caption.152}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {AsterX \ac {AUV} at sea surface during in-water trials}}}{106}{subfigure.80.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Lateral view}}}{106}{subfigure.80.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {81}{\ignorespaces AsterX AUV software architecture.}}{107}{figure.caption.154}

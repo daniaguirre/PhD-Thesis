@@ -1,0 +1,159 @@
+% **************************************************************************************************************
+% A Classic Thesis Style
+% An Homage to The Elements of Typographic Style
+%
+% Copyright (C) 2015 André Miede http://www.miede.de
+%
+% If you like the style then I would appreciate a postcard. My address 
+% can be found in the file ClassicThesis.pdf. A collection of the 
+% postcards I received so far is available online at 
+% http://postcards.miede.de
+%
+% License:
+% This program is free software; you can redistribute it and/or modify
+% it under the terms of the GNU General Public License as published by
+% the Free Software Foundation; either version 2 of the License, or
+% (at your option) any later version.
+%
+% This program is distributed in the hope that it will be useful,
+% but WITHOUT ANY WARRANTY; without even the implied warranty of
+% MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+% GNU General Public License for more details.
+%
+% You should have received a copy of the GNU General Public License
+% along with this program; see the file COPYING.  If not, write to
+% the Free Software Foundation, Inc., 59 Temple Place - Suite 330,
+% Boston, MA 02111-1307, USA.
+%
+% **************************************************************************************************************
+% arara: pdflatex
+% arara: bibtex
+% arara: bibtex: { files: [ JDHV ] }
+% arara: pdflatex
+% arara: pdflatex
+\RequirePackage{fix-cm} % fix some latex issues see: http://texdoc.net/texmf-dist/doc/latex/base/fixltx2e.pdf
+\documentclass[ oneside,openright,titlepage,numbers=noenddot,headinclude,%1headlines,% letterpaper a4paper
+                footinclude=false,cleardoublepage=empty,abstractoff, % <---
+                % obsolete, remove (todo)
+                BCOR=5mm,paper=a4,fontsize=11pt,%11pt,a4paper,%
+                ngerman,american,%
+                ]{scrreprt}
+
+%********************************************************************
+% Note: Make all your adjustments in here
+%*******************************************************
+\input{classicthesis-config}
+
+%********************************************************************
+% Bibliographies
+%*******************************************************
+% \addbibresource{0_frontmatter/PhDThesis.bib}
+% \addbibresource[label=ownpubs]{0_frontmatter/JDHVPublications.bib}
+
+%\addsectionbib{0_frontmatter/JDHVPublications.bib}
+\addbibresource{0_frontmatter/PhDThesis.bib}
+\addbibresource{0_frontmatter/JDHVPublications.bib}
+
+%********************************************************************
+% Hyphenation
+%*******************************************************
+%\hyphenation{put special hyphenation here}
+
+% ********************************************************************
+% GO!GO!GO! MOVE IT!
+%*******************************************************
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator*{\argmax}{arg\,max}
+% \newcommand*{\argminl}{\argmin\limits}
+% \newcommand*{\argmaxl}{\argmax\limits}
+
+%\includeonly{1_introduction/introduction}
+%\includeonly{2_state_of_the_art/state_of_the_art}
+%\includeonly{3_motion_constraints/planning_motion_constraints}
+%\includeonly{4_planning_3D/planning_3D}
+%\includeonly{5_planning_online/planning_online}
+%\includeonly{6_applications/applications}
+%\includeonly{7_conclusions/conclusions}
+%\includeonly{A_experimental_platform/experimental_platform}
+%\includeonly{B_path_track_control/path_track_control}
+
+\begin{document}
+\frenchspacing
+\raggedbottom
+\selectlanguage{american} % american ngerman
+%\renewcommand*{\bibname}{new name}
+%\setbibpreamble{}
+\pagenumbering{roman}
+\pagestyle{plain}
+%********************************************************************
+% Frontmatter
+%*******************************************************
+%\include{0_frontmatter/DirtyTitlepage}
+\include{0_frontmatter/Coverpage}
+\include{0_frontmatter/Titleback}
+\include{0_frontmatter/Titlepage}
+\include{0_frontmatter/Titleback}
+%\cleardoublepage\include{FrontBackmatter/Dedication}
+%\cleardoublepage\include{FrontBackmatter/Foreword} NO***********
+\cleardoublepage
+\include{0_frontmatter/Declaration}
+\include{0_frontmatter/Titleback}
+\include{0_frontmatter/Acknowledgments}
+\include{0_frontmatter/Titleback}
+\include{0_frontmatter/Publications}
+\pagestyle{scrheadings}
+\cleardoublepage
+\include{0_frontmatter/Contents}
+\include{0_frontmatter/Titleback}
+\include{0_frontmatter/Abstract}
+\include{0_frontmatter/Titleback}
+\include{0_frontmatter/Resumen}
+\include{0_frontmatter/Titleback}
+\include{0_frontmatter/Resum}
+\include{0_frontmatter/Titleback}
+%********************************************************************
+% Mainmatter
+%*******************************************************
+\cleardoublepage\pagenumbering{arabic}
+%\setcounter{page}{90}
+% use \cleardoublepage here to avoid problems with pdfbookmark
+\cleardoublepage
+\acresetall
+
+\include{1_introduction/introduction}
+\cleardoublepage
+\include{2_state_of_the_art/state_of_the_art}
+\cleardoublepage
+\include{3_motion_constraints/planning_motion_constraints}
+\cleardoublepage
+\include{4_planning_3D/planning_3D}
+%\cleardoublepage
+%\include{5_planning_online/planning_online}
+\cleardoublepage
+\include{6_applications/applications}
+\cleardoublepage
+\include{7_conclusions/conclusions}
+
+%\include{multiToC} % <--- just debug stuff, ignore for your documents
+% ********************************************************************
+% Backmatter
+%*******************************************************
+\appendix
+%\renewcommand{\thechapter}{\alph{chapter}}
+\cleardoublepage
+
+\part*{Appendix}
+\include{A_experimental_platform/experimental_platform}
+
+% \include{Chapters/Chapter0A}
+%********************************************************************
+% Other Stuff in the Back
+%*******************************************************
+\cleardoublepage\include{0_frontmatter/Bibliography}
+% \cleardoublepage\include{0_frontmatter/Declaration}
+% \cleardoublepage\include{0_frontmatter/Colophon}
+%********************************************************************
+% Game Over: Restore, Restart, or Quit?
+%*******************************************************
+\end{document}
+% ********************************************************************

@@ -1,0 +1,122 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: biblatex.bst
+A level-1 auxiliary file: 0_frontmatter/Coverpage.aux
+A level-1 auxiliary file: 0_frontmatter/Titleback.aux
+A level-1 auxiliary file: 0_frontmatter/Titlepage.aux
+Already encountered file 0_frontmatter/Titleback.aux
+---line 48 of file main.aux
+ : \@input{0_frontmatter/Titleback.aux
+ :                                    }
+I'm skipping whatever remains of this command
+A level-1 auxiliary file: 0_frontmatter/Declaration.aux
+Already encountered file 0_frontmatter/Titleback.aux
+---line 50 of file main.aux
+ : \@input{0_frontmatter/Titleback.aux
+ :                                    }
+I'm skipping whatever remains of this command
+A level-1 auxiliary file: 0_frontmatter/Acknowledgments.aux
+Already encountered file 0_frontmatter/Titleback.aux
+---line 52 of file main.aux
+ : \@input{0_frontmatter/Titleback.aux
+ :                                    }
+I'm skipping whatever remains of this command
+A level-1 auxiliary file: 0_frontmatter/Publications.aux
+A level-1 auxiliary file: 0_frontmatter/Contents.aux
+Already encountered file 0_frontmatter/Titleback.aux
+---line 55 of file main.aux
+ : \@input{0_frontmatter/Titleback.aux
+ :                                    }
+I'm skipping whatever remains of this command
+A level-1 auxiliary file: 0_frontmatter/Abstract.aux
+Already encountered file 0_frontmatter/Titleback.aux
+---line 57 of file main.aux
+ : \@input{0_frontmatter/Titleback.aux
+ :                                    }
+I'm skipping whatever remains of this command
+A level-1 auxiliary file: 0_frontmatter/Resumen.aux
+Already encountered file 0_frontmatter/Titleback.aux
+---line 59 of file main.aux
+ : \@input{0_frontmatter/Titleback.aux
+ :                                    }
+I'm skipping whatever remains of this command
+A level-1 auxiliary file: 0_frontmatter/Resum.aux
+Already encountered file 0_frontmatter/Titleback.aux
+---line 61 of file main.aux
+ : \@input{0_frontmatter/Titleback.aux
+ :                                    }
+I'm skipping whatever remains of this command
+A level-1 auxiliary file: 1_introduction/introduction.aux
+A level-1 auxiliary file: 2_state_of_the_art/state_of_the_art.aux
+A level-1 auxiliary file: 3_motion_constraints/planning_motion_constraints.aux
+A level-1 auxiliary file: 4_planning_3D/planning_3D.aux
+A level-1 auxiliary file: 5_planning_online/planning_online.aux
+A level-1 auxiliary file: 6_applications/applications.aux
+A level-1 auxiliary file: 7_conclusions/conclusions.aux
+A level-1 auxiliary file: A_experimental_platform/experimental_platform.aux
+A level-1 auxiliary file: 0_frontmatter/Bibliography.aux
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated field_info (elt_size=4) to 23348 items from 5000.
+Database file #1: main-blx.bib
+Database file #2: 0_frontmatter/PhDThesis.bib
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+Database file #3: 0_frontmatter/JDHVPublications.bib
+Biblatex version: 3.3
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 132 entries,
+            6256 wiz_defined-function locations,
+            2063 strings with 74158 characters,
+and the built_in function-call counts, 860085 in all, are:
+= -- 61398
+> -- 15501
+< -- 4033
++ -- 22641
+- -- 5864
+* -- 66623
+:= -- 90387
+add.period$ -- 0
+call.type$ -- 132
+change.case$ -- 131
+chr.to.int$ -- 91
+cite$ -- 262
+duplicate$ -- 93618
+empty$ -- 78235
+format.name$ -- 10357
+if$ -- 173646
+int.to.chr$ -- 0
+int.to.str$ -- 331
+missing$ -- 0
+newline$ -- 5063
+num.names$ -- 6089
+pop$ -- 46370
+preamble$ -- 1
+purify$ -- 2812
+quote$ -- 0
+skip$ -- 24979
+stack$ -- 0
+substring$ -- 104935
+swap$ -- 22139
+text.length$ -- 3708
+text.prefix$ -- 135
+top$ -- 1
+type$ -- 4453
+warning$ -- 0
+while$ -- 11218
+width$ -- 0
+write$ -- 4932
+(There were 7 error messages)

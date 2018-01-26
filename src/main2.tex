@@ -1,0 +1,28 @@
+\documentclass{article}
+
+\usepackage[backend=biber, giveninits=true, isbn=false, url=false,  doi=false,
+style=ieee, defernumbers=true, sorting=ydnt, bibstyle=ieee, maxnames=5]{biblatex}
+
+\addsectionbib{0_frontmatter/bib1.bib}
+\addbibresource{0_frontmatter/bib2.bib}
+
+\begin{document}
+
+\begin{refsection}[0_frontmatter/bib1.bib]
+
+\nocite{*}
+
+\section{My Bib}
+
+\printbibliography[heading=subbibliography,title={{\small Book Chapters}},type=book,prefixnumbers={B}]
+\printbibliography[heading=subbibliography,title={{\small Journals}},type=article,prefixnumbers={J}]
+
+\end{refsection}
+
+\section{Main Text}
+
+Now I am citing \cite{Jane2010}.  I want new references.
+
+\printbibliography
+
+\end{document}
