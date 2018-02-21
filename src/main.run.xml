@@ -85,8 +85,8 @@
       <file>main-blx.bib</file>
     </requires>
     <requires type="editable">
+      <file>0_frontmatter/DAGPublications.bib</file>
       <file>0_frontmatter/PhDThesis.bib</file>
-      <file>0_frontmatter/JDHVPublications.bib</file>
     </requires>
     <requires type="static">
       <file>biblatex.bst</file>

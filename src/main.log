@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.10.18)  26 JAN 2018 16:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.10.18)  21 FEB 2018 18:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1890,16 +1890,11 @@ File: english.lbx 2016/03/03 v3.3 biblatex localization (PK/JW/AB)
 )) (./main.aux (./0_frontmatter/Coverpage.aux) (./0_frontmatter/Titleback.aux)
 (./0_frontmatter/Titlepage.aux) (./0_frontmatter/Titleback.aux)
 (./0_frontmatter/Declaration.aux) (./0_frontmatter/Titleback.aux)
-(./0_frontmatter/Acknowledgments.aux) (./0_frontmatter/Titleback.aux)
-(./0_frontmatter/Publications.aux) (./0_frontmatter/Contents.aux)
-(./0_frontmatter/Titleback.aux) (./0_frontmatter/Abstract.aux)
-(./0_frontmatter/Titleback.aux) (./0_frontmatter/Resumen.aux)
-(./0_frontmatter/Titleback.aux) (./0_frontmatter/Resum.aux)
-(./0_frontmatter/Titleback.aux) (./1_introduction/introduction.aux)
-(./2_state_of_the_art/state_of_the_art.aux)
-(./3_motion_constraints/planning_motion_constraints.aux)
-(./4_planning_3D/planning_3D.aux) (./6_applications/applications.aux)
-(./7_conclusions/conclusions.aux)
+(./0_frontmatter/Titleback.aux) (./0_frontmatter/Publications.aux)
+(./0_frontmatter/Contents.aux) (./0_frontmatter/Titleback.aux)
+(./0_frontmatter/Abstract.aux) (./0_frontmatter/Titleback.aux)
+(./0_frontmatter/Resumen.aux) (./0_frontmatter/Titleback.aux)
+(./0_frontmatter/Resum.aux) (./0_frontmatter/Titleback.aux)
 (./A_experimental_platform/experimental_platform.aux)
 (./0_frontmatter/Bibliography.aux))
 \openout1 = `main.aux'.
@@ -2005,7 +2000,7 @@ ABD: EveryShipout initializing macros
 \openout2 = `0_frontmatter/Coverpage.aux'.
 
  (./0_frontmatter/Coverpage.tex
-<0_frontmatter/figures/udg_logo.png, id=280, 632.3625pt x 321.2pt>
+<0_frontmatter/figures/udg_logo.png, id=60, 632.3625pt x 321.2pt>
 File: 0_frontmatter/figures/udg_logo.png Graphic file (type png)
 
 <use 0_frontmatter/figures/udg_logo.png>
@@ -2093,6 +2088,11 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `zplm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
+
+Overfull \hbox (3.20668pt too wide) in paragraph at lines 34--38
+ []
+ []
+
 ) [5
 
 
@@ -2103,107 +2103,46 @@ Package microtype Info: Loading generic settings for font family
 ]
 \openout2 = `0_frontmatter/Titleback.aux'.
 
-
-(./0_frontmatter/Titleback.tex) [6
+ (./0_frontmatter/Titleback.tex) [6
 
 
 ]
-\openout2 = `0_frontmatter/Acknowledgments.aux'.
-
- (./0_frontmatter/Acknowledgments.tex
-[7
-
-
-]) [8]
 \openout2 = `0_frontmatter/Titleback.aux'.
 
- (./0_frontmatter/Titleback.tex) [9
+ (./0_frontmatter/Titleback.tex)
+[7
 
 
 ]
 \openout2 = `0_frontmatter/Publications.aux'.
 
  (./0_frontmatter/Publications.tex
+
+Package paralist Warning: Incorrect label; no or multiple counters.
+(paralist)                The label is: {[1]} on input line 12.
+
 LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/pplj/b/n' tried instead on input line 29.
+(Font)              Font shape `T1/pplj/b/n' tried instead on input line 13.
 
-Overfull \hbox (1.49646pt too wide) in paragraph at lines 56--60
-\T1/pplj/m/n/10.95 Car-reras, and P. Ri-dao. ``On-line 3D Path Plan-ning for Cl
-ose-proximity
- []
-
-[10
+Package paralist Warning: Incorrect label; no or multiple counters.
+(paralist)                The label is: {[1]} on input line 20.
 
 
+Package paralist Warning: Incorrect label; no or multiple counters.
+(paralist)                The label is: {[1]} on input line 30.
 
-
-]) [11]
-\openout2 = `0_frontmatter/Contents.aux'.
-
- (./0_frontmatter/Contents.tex
-Package tocbasic Info: character protrusion at lof deactivated on input line 18
-.
- (./main.lof
-Overfull \hbox (3.03635pt too wide) in paragraph at lines 73--73
- [][] []\T1/pplj/m/n/10.95 Example of an asymp-totic op-ti-mal rapidly-explorin
-g 
- []
-
-
-Overfull \hbox (0.59457pt too wide) in paragraph at lines 87--87
- [][] []\T1/pplj/m/n/10.95 Sensor-based plan-ning for AUVs un-der mo-tion con- 
-
- []
-
-[12
-
+) [8
 
 
 
 
 ]
-Overfull \hbox (4.94016pt too wide) in paragraph at lines 219--219
- [][] []\T1/pplj/m/n/10.95 Sparus II AUV is tele-op-er-ated at sur-face in the 
-break- 
- []
+\openout2 = `0_frontmatter/Contents.aux'.
 
-
-Overfull \hbox (1.38289pt too wide) in paragraph at lines 221--221
- [][] []\T1/pplj/m/n/10.95 Exteroceptive sen-sors con-fig-u-ra-tion for the Spa
-rus II 
- []
-
-
-Overfull \hbox (1.38289pt too wide) in paragraph at lines 257--257
- [][] []\T1/pplj/m/n/10.95 Exteroceptive sen-sors con-fig-u-ra-tion for the Spa
-rus II 
- []
-
-
-Overfull \hbox (4.85403pt too wide) in paragraph at lines 283--283
- [][] []\T1/pplj/m/n/10.95 Comparison be-tween the ve-hi-cle tra-jec-tory es-ti
--mated 
- []
-
-[13]
-Overfull \hbox (17.82974pt too wide) in paragraph at lines 285--285
- [][] []\T1/pplj/m/n/10.95 Satellite im-age of the un-der-wa-ter caves com-plex
- ``Coves 
- []
-
-
-Overfull \hbox (0.47868pt too wide) in paragraph at lines 297--297
- [][] []\T1/pplj/m/n/10.95 Simulated mis-sion in the caves com-plex. Third star
-t- 
- []
-
-
-Overfull \hbox (0.99336pt too wide) in paragraph at lines 309--309
- [][] []\T1/pplj/m/n/10.95 Simulated mis-sion in the caves com-plex. Whole mis-
- 
- []
-
-)
+ (./0_frontmatter/Contents.tex
+Package tocbasic Info: character protrusion at lof deactivated on input line 18
+.
+ (./main.lof)
 \tf@lof=\write6
 \openout6 = `main.lof'.
 
@@ -2213,30 +2152,26 @@ Package tocbasic Info: character protrusion at lot deactivated on input line 29
 \tf@lot=\write7
 \openout7 = `main.lot'.
 
- (./main.loa [14])
+ (./main.loa)
 \tf@loa=\write8
 \openout8 = `main.loa'.
 
- [15] (./0_frontmatter/Acronyms.tex [16])
-[17]
+
+[9
+
+
+
+
+
+] (./0_frontmatter/Acronyms.tex) [10]
 Package tocbasic Info: character protrusion at toc deactivated on input line 79
 .
  (./main.toc
+LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <12> not available
+(Font)              Font shape `T1/pplj/b/n' tried instead on input line 9.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/pplj/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
-
-Overfull \hbox (22.22404pt too wide) in paragraph at lines 101--101
- [][] []\T1/pplj/m/sc/10.95/80ls planning 3d mo-tions for torpedo-shaped and pr
-opeller- 
- []
-
-[18
-
-
-]
-LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <12> not available
-(Font)              Font shape `T1/pplj/b/n' tried instead on input line 135.
 )
 \tf@toc=\write9
 \openout9 = `main.toc'.
@@ -2246,10 +2181,13 @@ LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <12> not available
 1: chapter
 1: chapter
 1: section
-) [19]
+) [11
+
+
+]
 \openout2 = `0_frontmatter/Titleback.aux'.
 
- (./0_frontmatter/Titleback.tex) [20
+ (./0_frontmatter/Titleback.tex) [12
 
 
 ]
@@ -2264,26 +2202,26 @@ Overfull \hbox (1.87503pt too wide) in paragraph at lines 27--36
 i-ron-ments de-mands
  []
 
-) [21
+) [13
 
 
 ]
 \openout2 = `0_frontmatter/Titleback.aux'.
 
- (./0_frontmatter/Titleback.tex) [22
+ (./0_frontmatter/Titleback.tex) [14
 
 
 ]
 \openout2 = `0_frontmatter/Resumen.aux'.
 
  (./0_frontmatter/Resumen.tex)
-[23
+[15
 
 
 ]
 \openout2 = `0_frontmatter/Titleback.aux'.
 
- (./0_frontmatter/Titleback.tex) [24
+ (./0_frontmatter/Titleback.tex) [16
 
 
 ]
@@ -2295,2292 +2233,21 @@ LaTeX Font Info:    Try loading font information for TS1+pplj on input line 28.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1pplj.fd
 File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
-)) [25
+)) [17
 
 
 ]
 \openout2 = `0_frontmatter/Titleback.aux'.
 
 
-(./0_frontmatter/Titleback.tex) [26
+(./0_frontmatter/Titleback.tex) [18
 
 
-]
-\openout2 = `1_introduction/introduction.aux'.
+] [1
 
- (./1_introduction/introduction.tex
-chapter 1.
 
-LaTeX Warning: Citation 'Dunbabin2012' on page 1 undefined on input line 43.
 
-Package acronym Info: Label `acro:UUV' newly defined as it shall be overridden
-although it is yet undefined on input line 47.
 
-LaTeX Warning: Citation 'Whitcomb2000' on page 1 undefined on input line 48.
-
-Package acronym Info: Label `acro:ROV' newly defined as it shall be overridden
-although it is yet undefined on input line 50.
-
-LaTeX Warning: Citation 'Khan2002' on page 1 undefined on input line 54.
-
-
-LaTeX Warning: Citation 'Lam2006' on page 1 undefined on input line 55.
-
-
-LaTeX Warning: Citation 'Forney2011' on page 1 undefined on input line 56.
-
-<1_introduction/figures/Victor6000-ROV.png, id=677, 1027.84pt x 669.50125pt>
-File: 1_introduction/figures/Victor6000-ROV.png Graphic file (type png)
-
-<use 1_introduction/figures/Victor6000-ROV.png>
-Package pdftex.def Info: 1_introduction/figures/Victor6000-ROV.png used on inpu
-t line 64.
-(pdftex.def)             Requested size: 161.9989pt x 105.51851pt.
-
-<1_introduction/figures/Victor6000-ROV-Ship.png, id=678, 170.7981pt x 102.8643p
-t>
-File: 1_introduction/figures/Victor6000-ROV-Ship.png Graphic file (type png)
- <use 1_introduction/figures/Victor6000-ROV-Ship.png>
-Package pdftex.def Info: 1_introduction/figures/Victor6000-ROV-Ship.png used on
- input line 67.
-(pdftex.def)             Requested size: 161.9989pt x 97.56512pt.
-Package acronym Info: Label `acro:AUV' overridden on input line 79.
-
-
-LaTeX Warning: Citation 'Grasmueck2006' on page 1 undefined on input line 85.
-
-
-LaTeX Warning: Citation 'WeiLi2006' on page 1 undefined on input line 86.
-
-
-LaTeX Warning: Citation 'Bingham2010' on page 1 undefined on input line 87.
-
-[1
-
-
-
-
-
-
-
-
- <./1_introduction/figures/Victor6000-ROV.png> <./1_introduction/figures/Victor
-6000-ROV-Ship.png>]
-<1_introduction/figures/SeagliderAUV.png, id=699, 2423.0525pt x 1278.7775pt>
-File: 1_introduction/figures/SeagliderAUV.png Graphic file (type png)
-
-<use 1_introduction/figures/SeagliderAUV.png>
-Package pdftex.def Info: 1_introduction/figures/SeagliderAUV.png used on input 
-line 107.
-(pdftex.def)             Requested size: 288.0011pt x 151.98323pt.
-Package acronym Info: Label `acro:3D' newly defined as it shall be overridden
-although it is yet undefined on input line 117.
-
-<1_introduction/figures/Sparus2.png, id=705, 720.6925pt x 468.75125pt>
-File: 1_introduction/figures/Sparus2.png Graphic file (type png)
-
-<use 1_introduction/figures/Sparus2.png>
-Package pdftex.def Info: 1_introduction/figures/Sparus2.png used on input line 
-124.
-(pdftex.def)             Requested size: 216.0022pt x 140.49055pt.
-
-
-LaTeX Warning: Citation 'Hover2012' on page 2 undefined on input line 151.
-
-
-LaTeX Warning: Citation 'Hurtos2015' on page 2 undefined on input line 151.
-
-
-LaTeX Warning: Citation 'Galceran2014b' on page 2 undefined on input line 152.
-
-
-LaTeX Warning: Citation 'Grasmueck2006' on page 2 undefined on input line 155.
-
-
-LaTeX Warning: Citation 'Bingham2010' on page 2 undefined on input line 155.
-
-
-LaTeX Warning: Citation 'Hover2012' on page 2 undefined on input line 157.
-
-
-LaTeX Warning: Citation 'Galceran2014b' on page 2 undefined on input line 157.
-
-
-LaTeX Warning: Citation 'Mallios2015' on page 2 undefined on input line 159.
-
-
-Overfull \hbox (7.91075pt too wide) in paragraph at lines 150--163
-\T1/pplj/m/n/10.95 ments (e.g., un-der-wa-ter caves) [[]], where such in-for-ma
--tion might
- []
-
-[2 <./1_introduction/figures/SeagliderAUV.png>]
-Package acronym Info: Label `acro:DR' newly defined as it shall be overridden
-although it is yet undefined on input line 182.
- [3 <./1_introduction/figures/Sparus2.png>]
-Package acronym Info: Label `acro:USBL' newly defined as it shall be overridden
-
-although it is yet undefined on input line 192.
-Package acronym Info: Label `acro:CPP' newly defined as it shall be overridden
-although it is yet undefined on input line 221.
-
-
-LaTeX Warning: Citation 'Galceran2013a' on page 4 undefined on input line 225.
-
-Package acronym Info: Label `acro:C-Space' newly defined as it shall be overrid
-den
-although it is yet undefined on input line 229.
-
-LaTeX Warning: Citation 'Lozano-Perez1983' on page 4 undefined on input line 23
-0.
-
-
-LaTeX Warning: Citation 'Dijkstra1959' on page 4 undefined on input line 233.
-
-
-LaTeX Warning: Citation 'Hart1968' on page 4 undefined on input line 233.
-
-
-LaTeX Warning: Citation 'Stentz1994' on page 4 undefined on input line 234.
-
-[4]
-
-LaTeX Warning: Citation 'Choset2005' on page 5 undefined on input line 241.
-
-
-LaTeX Warning: Citation 'LaValle2006' on page 5 undefined on input line 241.
-
-
-LaTeX Warning: Citation 'Choset2005' on page 5 undefined on input line 257.
-
-
-LaTeX Warning: Citation 'Donald1993' on page 5 undefined on input line 269.
-
-
-Overfull \hbox (2.87148pt too wide) in paragraph at lines 263--273
-\T1/pplj/m/it/10.95 ning \T1/pplj/m/n/10.95 (this lat-ter term was in-tro-duced
- by Don-ald et al. in 1993 [[]]).
- []
-
-
-Overfull \hbox (9.15681pt too wide) in paragraph at lines 263--273
-\T1/pplj/m/n/10.95 An ex-am-ple of such plan-ning prob-lems is the one re-lated
- to a non-holonomic
- []
-
-
-LaTeX Warning: Citation 'Sucan2011' on page 5 undefined on input line 275.
-
-
-LaTeX Warning: Citation 'LaValle2006' on page 5 undefined on input line 275.
-
-Package acronym Info: Label `acro:6D' newly defined as it shall be overridden
-although it is yet undefined on input line 287.
-[5] [6]
-Package acronym Info: Label `acro:2D' newly defined as it shall be overridden
-although it is yet undefined on input line 372.
-
-
-LaTeX Warning: Reference `ch:plann_online' on page 7 undefined on input line 38
-5.
-
-
-LaTeX Warning: Reference `ch:plann_online' on page 7 undefined on input line 39
-4.
-
-
-LaTeX Warning: Reference `ch:plann_online' on page 7 undefined on input line 40
-1.
-
-Package acronym Info: Label `acro:Ifremer' newly defined as it shall be overrid
-den
-although it is yet undefined on input line 409.
-[7]) [8]
-\openout2 = `2_state_of_the_art/state_of_the_art.aux'.
-
- (./2_state_of_the_art/state_of_the_art.tex
-chapter 2.
-
-LaTeX Warning: Citation 'Nilsson1969' on page 9 undefined on input line 35.
-
-
-LaTeX Warning: Citation 'Lozano-Perez1983' on page 9 undefined on input line 37
-.
-
-
-LaTeX Warning: Citation 'Lozano-Perez1984' on page 9 undefined on input line 37
-.
-
-
-LaTeX Warning: Citation 'Lozano-Perez1987' on page 9 undefined on input line 37
-.
-
-LaTeX Font Info:    Try loading font information for U+fplmbb on input line 41.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ufplmbb.fd
-File: ufplmbb.fd 2003/10/30 Fontinst v1.914 font definitions for U/fplmbb.
-)
-Overfull \hbox (36.2493pt too wide) in paragraph at lines 34--47
-\T1/pplj/m/n/10.95 duced the con-cept of the \T1/pplj/m/it/10.95 con-fig-u-ra-t
-ion space \T1/pplj/m/n/10.95 [[], [],
- []
-
-Package acronym Info: Label `acro:DOF' newly defined as it shall be overridden
-although it is yet undefined on input line 61.
-[9
-
-
-
-
-
-
-]
-<2_state_of_the_art/figures/collision-free-path.png, id=832, 1517.30865pt x 115
-0.17705pt>
-File: 2_state_of_the_art/figures/collision-free-path.png Graphic file (type png
-)
- <use 2_state_of_the_art/figures/collision-free-path.png>
-Package pdftex.def Info: 2_state_of_the_art/figures/collision-free-path.png use
-d on input line 76.
-(pdftex.def)             Requested size: 270.0pt x 204.67119pt.
-
-
-LaTeX Warning: Citation 'Lumelsky1987' on page 10 undefined on input line 94.
-
-
-LaTeX Warning: Citation 'Kamon1996' on page 10 undefined on input line 96.
-
-
-LaTeX Warning: Citation 'Lumelsky1987' on page 10 undefined on input line 102.
-
-[10 <./2_state_of_the_art/figures/collision-free-path.png>]
-<2_state_of_the_art/figures/Bug1.png, id=840, 1692.20206pt x 930.1149pt>
-File: 2_state_of_the_art/figures/Bug1.png Graphic file (type png)
-
-<use 2_state_of_the_art/figures/Bug1.png>
-Package pdftex.def Info: 2_state_of_the_art/figures/Bug1.png used on input line
- 120.
-(pdftex.def)             Requested size: 270.0pt x 148.39565pt.
-
-
-LaTeX Warning: Citation 'Lumelsky1987' on page 11 undefined on input line 126.
-
-
-LaTeX Warning: Citation 'Choset2005' on page 11 undefined on input line 128.
-
-<2_state_of_the_art/figures/Bug2.png, id=842, 884.94615pt x 773.65034pt>
-File: 2_state_of_the_art/figures/Bug2.png Graphic file (type png)
-
-<use 2_state_of_the_art/figures/Bug2.png>
-Package pdftex.def Info: 2_state_of_the_art/figures/Bug2.png used on input line
- 149.
-(pdftex.def)             Requested size: 172.79846pt x 151.05598pt.
-
-<2_state_of_the_art/figures/Bug2-complex.png, id=843, 824.6007pt x 764.6166pt>
-File: 2_state_of_the_art/figures/Bug2-complex.png Graphic file (type png)
-
-<use 2_state_of_the_art/figures/Bug2-complex.png>
-Package pdftex.def Info: 2_state_of_the_art/figures/Bug2-complex.png used on in
-put line 152.
-(pdftex.def)             Requested size: 172.79846pt x 160.2242pt.
-
-
-LaTeX Warning: Citation 'Kamon1996' on page 11 undefined on input line 158.
-
-
-<2_state_of_the_art/figures/TangentBug-Boundaries.png, id=845, 1101.75615pt x 1
-008.52785pt>
-File: 2_state_of_the_art/figures/TangentBug-Boundaries.png Graphic file (type p
-ng)
- <use 2_state_of_the_art/figures/TangentBug-Boundaries.png>
-Package pdftex.def Info: 2_state_of_the_art/figures/TangentBug-Boundaries.png u
-sed on input line 175.
-(pdftex.def)             Requested size: 172.79846pt x 158.16685pt.
-
-<2_state_of_the_art/figures/TangentBug-Execution.png, id=846, 1149.8157pt x 809
-.424pt>
-File: 2_state_of_the_art/figures/TangentBug-Execution.png Graphic file (type pn
-g)
- <use 2_state_of_the_art/figures/TangentBug-Execution.png>
-Package pdftex.def Info: 2_state_of_the_art/figures/TangentBug-Execution.png us
-ed on input line 178.
-(pdftex.def)             Requested size: 172.79846pt x 121.64302pt.
- [11 <./2_state_of_the_art/figures/Bug1.png>] [12 <./2_state_of_the_art/figures
-/Bug2.png> <./2_state_of_the_art/figures/Bug2-complex.png> <./2_state_of_the_ar
-t/figures/TangentBug-Boundaries.png> <./2_state_of_the_art/figures/TangentBug-E
-xecution.png>]
-<2_state_of_the_art/figures/Grid-BasedNarrowPassagesNoValid.png, id=866, 990.09
-9pt x 622.9674pt>
-File: 2_state_of_the_art/figures/Grid-BasedNarrowPassagesNoValid.png Graphic fi
-le (type png)
-
-<use 2_state_of_the_art/figures/Grid-BasedNarrowPassagesNoValid.png>
-Package pdftex.def Info: 2_state_of_the_art/figures/Grid-BasedNarrowPassagesNoV
-alid.png used on input line 214.
-(pdftex.def)             Requested size: 172.79846pt x 108.71674pt.
-
-<2_state_of_the_art/figures/Grid-BasedNarrowPassagesValid.png, id=867, 990.099p
-t x 613.5723pt>
-File: 2_state_of_the_art/figures/Grid-BasedNarrowPassagesValid.png Graphic file
- (type png)
-
-<use 2_state_of_the_art/figures/Grid-BasedNarrowPassagesValid.png>
-Package pdftex.def Info: 2_state_of_the_art/figures/Grid-BasedNarrowPassagesVal
-id.png used on input line 217.
-(pdftex.def)             Requested size: 172.79846pt x 107.07716pt.
-
-
-LaTeX Warning: Citation 'Dijkstra1959' on page 13 undefined on input line 229.
-
-
-LaTeX Warning: Citation 'Hart1968' on page 13 undefined on input line 265.
-
-[13 <./2_state_of_the_art/figures/Grid-BasedNarrowPassagesNoValid.png> <./2_sta
-te_of_the_art/figures/Grid-BasedNarrowPassagesValid.png>]
-
-LaTeX Warning: Citation 'Choset2005' on page 14 undefined on input line 288.
-
-<2_state_of_the_art/figures/Dijkstra.png, id=890, 640.3122pt x 710.4141pt>
-File: 2_state_of_the_art/figures/Dijkstra.png Graphic file (type png)
-
-<use 2_state_of_the_art/figures/Dijkstra.png>
-Package pdftex.def Info: 2_state_of_the_art/figures/Dijkstra.png used on input 
-line 298.
-(pdftex.def)             Requested size: 172.79846pt x 191.7168pt.
-
-<2_state_of_the_art/figures/Astar.png, id=891, 638.8668pt x 708.9687pt>
-File: 2_state_of_the_art/figures/Astar.png Graphic file (type png)
-
-<use 2_state_of_the_art/figures/Astar.png>
-Package pdftex.def Info: 2_state_of_the_art/figures/Astar.png used on input lin
-e 301.
-(pdftex.def)             Requested size: 172.79846pt x 191.75946pt.
-LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <8> not available
-(Font)              Font shape `T1/pplj/b/n' tried instead on input line 341.
-LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
-(Font)              scaled to size 9.30756pt on input line 341.
-Package acronym Info: Label `acro:D*' newly defined as it shall be overridden
-although it is yet undefined on input line 352.
-
-
-LaTeX Warning: Citation 'Stentz1994' on page 14 undefined on input line 352.
-
-
-LaTeX Warning: Citation 'Stentz1995' on page 14 undefined on input line 352.
-
-[14] [15 <./2_state_of_the_art/figures/Dijkstra.png> <./2_state_of_the_art/figu
-res/Astar.png>]
-
-LaTeX Warning: Citation 'Khatib1985' on page 16 undefined on input line 378.
-
-
-LaTeX Warning: Citation 'Khatib1986' on page 16 undefined on input line 378.
-
-
-Overfull \hbox (11.45862pt too wide) in paragraph at lines 378--395
-[]\T1/pplj/m/n/10.95 Originally pro-posed by Ous-sama Khatib in 1985 [[], []],
- []
-
-
-<2_state_of_the_art/figures/PotentialFieldTop.png, id=932, 558.085pt x 419.5675
-pt>
-File: 2_state_of_the_art/figures/PotentialFieldTop.png Graphic file (type png)
- <use 2_state_of_the_art/figures/PotentialFieldTop.png>
-Package pdftex.def Info: 2_state_of_the_art/figures/PotentialFieldTop.png used 
-on input line 401.
-(pdftex.def)             Requested size: 172.79846pt x 129.90453pt.
-
-<2_state_of_the_art/figures/PotentialFieldPerspective.png, id=933, 587.19376pt 
-x 414.54875pt>
-File: 2_state_of_the_art/figures/PotentialFieldPerspective.png Graphic file (ty
-pe png)
- <use 2_state_of_the_art/figures/PotentialFieldPerspective.png>
-Package pdftex.def Info: 2_state_of_the_art/figures/PotentialFieldPerspective.p
-ng used on input line 404.
-(pdftex.def)             Requested size: 172.79846pt x 121.99352pt.
-
-
-LaTeX Warning: Citation 'Liu2016' on page 16 undefined on input line 407.
-
-LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <10> not available
-(Font)              Font shape `T1/pplj/b/n' tried instead on input line 407.
-
-LaTeX Warning: Citation 'Liu2016' on page 16 undefined on input line 407.
-
-Package acronym Info: Label `acro:RPP' newly defined as it shall be overridden
-although it is yet undefined on input line 442.
-
-LaTeX Warning: Citation 'Barraquand1990' on page 16 undefined on input line 442
-.
-
-
-LaTeX Warning: Citation 'Barraquand1991' on page 16 undefined on input line 442
-.
-
-[16 <./2_state_of_the_art/figures/PotentialFieldTop.png> <./2_state_of_the_art/
-figures/PotentialFieldPerspective.png>]
-
-LaTeX Warning: Citation 'Canny1993' on page 17 undefined on input line 468.
-
-
-LaTeX Warning: Citation 'Latombe1991' on page 17 undefined on input line 468.
-
-Package acronym Info: Label `acro:RM' newly defined as it shall be overridden
-although it is yet undefined on input line 468.
-
-LaTeX Warning: Citation 'Choset2005' on page 17 undefined on input line 471.
-
-[17]
-<2_state_of_the_art/figures/VisibilityGraph1.png, id=973, 1044.3015pt x 581.050
-8pt>
-File: 2_state_of_the_art/figures/VisibilityGraph1.png Graphic file (type png)
- <use 2_state_of_the_art/figures/VisibilityGraph1.png>
-Package pdftex.def Info: 2_state_of_the_art/figures/VisibilityGraph1.png used o
-n input line 498.
-(pdftex.def)             Requested size: 161.9989pt x 90.13286pt.
-
-<2_state_of_the_art/figures/VisibilityGraph2.png, id=974, 1044.3015pt x 581.050
-8pt>
-File: 2_state_of_the_art/figures/VisibilityGraph2.png Graphic file (type png)
- <use 2_state_of_the_art/figures/VisibilityGraph2.png>
-Package pdftex.def Info: 2_state_of_the_art/figures/VisibilityGraph2.png used o
-n input line 501.
-(pdftex.def)             Requested size: 161.9989pt x 90.13286pt.
-Package acronym Info: Label `acro:GVD' newly defined as it shall be overridden
-although it is yet undefined on input line 554.
-
-
-LaTeX Warning: Citation 'Aurenhammer1991' on page 18 undefined on input line 55
-8.
-
-
-LaTeX Warning: Citation 'Choset2005' on page 18 undefined on input line 562.
-
-[18 <./2_state_of_the_art/figures/VisibilityGraph1.png> <./2_state_of_the_art/f
-igures/VisibilityGraph2.png>]
-<2_state_of_the_art/figures/VoronoiDiagram.png, id=1007, 523.9575pt x 545.6385p
-t>
-File: 2_state_of_the_art/figures/VoronoiDiagram.png Graphic file (type png)
- <use 2_state_of_the_art/figures/VoronoiDiagram.png>
-Package pdftex.def Info: 2_state_of_the_art/figures/VoronoiDiagram.png used on 
-input line 567.
-(pdftex.def)             Requested size: 126.0022pt x 131.214pt.
-
-
-LaTeX Warning: Citation 'LaValle2006' on page 19 undefined on input line 688.
-
-
-LaTeX Warning: Citation 'Kavraki1996' on page 19 undefined on input line 693.
-
-
-LaTeX Warning: Citation 'Barraquand1997' on page 19 undefined on input line 693
-.
-
-
-LaTeX Warning: Citation 'Kavraki1998' on page 19 undefined on input line 693.
-
-[19 <./2_state_of_the_art/figures/VoronoiDiagram.png>]
-Package acronym Info: Label `acro:PRM' newly defined as it shall be overridden
-although it is yet undefined on input line 707.
-
-
-LaTeX Warning: Citation 'Kavraki1994' on page 20 undefined on input line 709.
-
-
-LaTeX Warning: Citation 'Kavraki1994a' on page 20 undefined on input line 709.
-
-
-LaTeX Warning: Citation 'Overmars1994' on page 20 undefined on input line 709.
-
-
-LaTeX Warning: Citation 'Kavraki1996' on page 20 undefined on input line 710.
-
-[20]
-
-LaTeX Warning: Citation 'Choset2005' on page 21 undefined on input line 783.
-
-
-LaTeX Warning: Citation 'LaValle2006' on page 21 undefined on input line 783.
-
-<2_state_of_the_art/figures/PRM.png, id=1036, 448.7967pt x 347.6187pt>
-File: 2_state_of_the_art/figures/PRM.png Graphic file (type png)
-
-<use 2_state_of_the_art/figures/PRM.png>
-Package pdftex.def Info: 2_state_of_the_art/figures/PRM.png used on input line 
-794.
-(pdftex.def)             Requested size: 198.0011pt x 153.36642pt.
- [21 <./2_state_of_the_art/figures/PRM.png>]
-
-LaTeX Warning: Citation 'Barraquand1990' on page 22 undefined on input line 828
-.
-
-
-LaTeX Warning: Citation 'Barraquand1991' on page 22 undefined on input line 828
-.
-
-Package acronym Info: Label `acro:ACA' newly defined as it shall be overridden
-although it is yet undefined on input line 836.
-
-LaTeX Warning: Citation 'Bessiere1993' on page 22 undefined on input line 838.
-
-
-LaTeX Warning: Citation 'Mazer1998' on page 22 undefined on input line 838.
-
-Package acronym Info: Label `acro:EST' newly defined as it shall be overridden
-although it is yet undefined on input line 849.
-
-LaTeX Warning: Citation 'Hsu1997' on page 22 undefined on input line 849.
-
-
-LaTeX Warning: Citation 'Hsu1999' on page 22 undefined on input line 849.
-
-
-LaTeX Warning: Citation 'Hsu2000' on page 22 undefined on input line 849.
-
-
-LaTeX Warning: Citation 'Hsu2002' on page 22 undefined on input line 849.
-
-
-Overfull \hbox (0.93996pt too wide) in paragraph at lines 848--861
-\T1/pplj/m/n/10.95 Proposed by David Hsu et al. in 1997, [][][]expansive-spaces
- tree ([])[] [[],
- []
-
-[22]
-Package acronym Info: Label `acro:RRT' newly defined as it shall be overridden
-although it is yet undefined on input line 867.
-
-
-LaTeX Warning: Citation 'LaValle1998' on page 23 undefined on input line 868.
-
-
-LaTeX Warning: Citation 'LaValle1999' on page 23 undefined on input line 876.
-
-
-LaTeX Warning: Citation 'LaValle2000' on page 23 undefined on input line 876.
-
-
-LaTeX Warning: Citation 'LaValle2001' on page 23 undefined on input line 876.
-
-
-LaTeX Warning: Citation 'Kuffner2000' on page 23 undefined on input line 878.
-
-
-Overfull \hbox (4.26666pt too wide) in paragraph at lines 865--879
-\T1/pplj/m/n/10.95 a bi-ased grow-ing to-wards the goal [[], [], []].
- []
-
-
-Overfull \hbox (37.95522pt too wide) in paragraph at lines 865--879
-\T1/pplj/m/n/10.95 tends the ba-sic con-cept by con-struct-ing two []\T1/pplj/m
-/n/9 s[] \T1/pplj/m/n/10.95 to-wards each other [[]]. 
- []
-
-
-<2_state_of_the_art/figures/RRT-Expansion.png, id=1098, 448.7967pt x 347.6187pt
->
-File: 2_state_of_the_art/figures/RRT-Expansion.png Graphic file (type png)
- <use 2_state_of_the_art/figures/RRT-Expansion.png>
-Package pdftex.def Info: 2_state_of_the_art/figures/RRT-Expansion.png used on i
-nput line 964.
-(pdftex.def)             Requested size: 161.9989pt x 125.47679pt.
-
-<2_state_of_the_art/figures/RRT-Solve-Query.png, id=1099, 448.7967pt x 347.6187
-pt>
-File: 2_state_of_the_art/figures/RRT-Solve-Query.png Graphic file (type png)
- <use 2_state_of_the_art/figures/RRT-Solve-Query.png>
-Package pdftex.def Info: 2_state_of_the_art/figures/RRT-Solve-Query.png used on
- input line 967.
-(pdftex.def)             Requested size: 161.9989pt x 125.47679pt.
-Package acronym Info: Label `acro:T-RRT' newly defined as it shall be overridde
-n
-although it is yet undefined on input line 983.
-
-
-LaTeX Warning: Citation 'Jaillet2010' on page 23 undefined on input line 985.
-
-[23] [24 <./2_state_of_the_art/figures/RRT-Expansion.png> <./2_state_of_the_art
-/figures/RRT-Solve-Query.png>]
-Package acronym Info: Label `acro:RRT*' newly defined as it shall be overridden
-
-although it is yet undefined on input line 994.
-
-
-LaTeX Warning: Citation 'Karaman2010a' on page 25 undefined on input line 997.
-
-
-LaTeX Warning: Citation 'Karaman2011' on page 25 undefined on input line 1002.
-
-
-LaTeX Warning: Citation 'Devaurs2016' on page 25 undefined on input line 1005.
-
-
-<2_state_of_the_art/figures/RRTStar-Expansion.png, id=1152, 448.7967pt x 347.61
-87pt>
-File: 2_state_of_the_art/figures/RRTStar-Expansion.png Graphic file (type png)
- <use 2_state_of_the_art/figures/RRTStar-Expansion.png>
-Package pdftex.def Info: 2_state_of_the_art/figures/RRTStar-Expansion.png used 
-on input line 1049.
-(pdftex.def)             Requested size: 198.0011pt x 153.36642pt.
- [25]
-Package acronym Info: Label `acro:DFS' newly defined as it shall be overridden
-although it is yet undefined on input line 1149.
-
-
-LaTeX Warning: Citation 'Donald1993' on page 26 undefined on input line 1152.
-
-
-LaTeX Warning: Citation 'Thrun2006' on page 26 undefined on input line 1157.
-
-
-LaTeX Warning: Citation 'Likhachev2009' on page 26 undefined on input line 1164
-.
-
-
-LaTeX Warning: Citation 'Dolgov2008' on page 26 undefined on input line 1171.
-
-
-LaTeX Warning: Citation 'Dolgov2010' on page 26 undefined on input line 1171.
-
-
-Overfull \hbox (13.4492pt too wide) in paragraph at lines 1154--1172
-\T1/pplj/m/n/10.95 one A* vari-ant (called AD*) would find paths over the lat-t
-ice [[]].
- []
-
-[26 <./2_state_of_the_art/figures/RRTStar-Expansion.png>]
-
-LaTeX Warning: Citation 'Hsu2002' on page 27 undefined on input line 1181.
-
-
-LaTeX Warning: Citation 'LaValle2001' on page 27 undefined on input line 1181.
-
-
-Overfull \hbox (0.23486pt too wide) in paragraph at lines 1180--1191
-\T1/pplj/m/n/10.95 ini-tially con-ceived to cope with mo-tion con-straints [[],
- []].
- []
-
-
-<2_state_of_the_art/figures/PlannGeomConstr.png, id=1188, 448.7967pt x 347.6187
-pt>
-File: 2_state_of_the_art/figures/PlannGeomConstr.png Graphic file (type png)
- <use 2_state_of_the_art/figures/PlannGeomConstr.png>
-Package pdftex.def Info: 2_state_of_the_art/figures/PlannGeomConstr.png used on
- input line 1194.
-(pdftex.def)             Requested size: 143.9978pt x 111.5373pt.
-
-<2_state_of_the_art/figures/PlannDiffConstr.png, id=1189, 448.7967pt x 347.6187
-pt>
-File: 2_state_of_the_art/figures/PlannDiffConstr.png Graphic file (type png)
- <use 2_state_of_the_art/figures/PlannDiffConstr.png>
-Package pdftex.def Info: 2_state_of_the_art/figures/PlannDiffConstr.png used on
- input line 1196.
-(pdftex.def)             Requested size: 143.9978pt x 111.5373pt.
-Package acronym Info: Label `acro:CL-RRT' newly defined as it shall be overridd
-en
-although it is yet undefined on input line 1214.
-
-
-LaTeX Warning: Citation 'Kuwata2009' on page 27 undefined on input line 1215.
-
-
-LaTeX Warning: Citation 'Muller2011' on page 27 undefined on input line 1220.
-
-[27 <./2_state_of_the_art/figures/PlannGeomConstr.png> <./2_state_of_the_art/fi
-gures/PlannDiffConstr.png>]
-
-LaTeX Warning: Citation 'Zilberstein1995' on page 28 undefined on input line 12
-45.
-
-
-LaTeX Warning: Citation 'Dean1988' on page 28 undefined on input line 1245.
-
-Package acronym Info: Label `acro:ARA*' newly defined as it shall be overridden
-
-although it is yet undefined on input line 1249.
-
-LaTeX Warning: Citation 'Likhachev2003' on page 28 undefined on input line 1251
-.
-
-Package acronym Info: Label `acro:AD*' newly defined as it shall be overridden
-although it is yet undefined on input line 1261.
-
-LaTeX Warning: Citation 'Likhachev2005' on page 28 undefined on input line 1263
-.
-
-
-LaTeX Warning: Citation 'Likhachev2008' on page 28 undefined on input line 1264
-.
-
-
-LaTeX Warning: Citation 'Likhachev2009' on page 28 undefined on input line 1267
-.
-
-Package acronym Info: Label `acro:FADPRM' newly defined as it shall be overridd
-en
-although it is yet undefined on input line 1271.
-
-LaTeX Warning: Citation 'Belghith2006' on page 28 undefined on input line 1278.
-
-
-
-LaTeX Warning: Citation 'VandenBerg2006' on page 28 undefined on input line 128
-0.
-
-[28]
-
-LaTeX Warning: Citation 'Ferguson2006' on page 29 undefined on input line 1291.
-
-
-
-LaTeX Warning: Citation 'Ferguson2007' on page 29 undefined on input line 1291.
-
-
-
-LaTeX Warning: Citation 'Karaman2011a' on page 29 undefined on input line 1292.
-
-
-
-Overfull \hbox (8.09715pt too wide) in paragraph at lines 1282--1293
-\T1/pplj/m/n/10.95 vari-ants as [][] were also for-mu-lated as \T1/pplj/m/it/10
-.95 any-time \T1/pplj/m/n/10.95 al-go-rithms [[]]. 
- []
-
-
-LaTeX Warning: Citation 'Bohlin2000' on page 29 undefined on input line 1320.
-
-
-LaTeX Warning: Citation 'Bohlin2001' on page 29 undefined on input line 1320.
-
-
-LaTeX Warning: Citation 'Bekris2007' on page 29 undefined on input line 1335.
-
-
-LaTeX Warning: Citation 'Vahrenkamp2007' on page 29 undefined on input line 133
-8.
-
-
-LaTeX Warning: Reference `ch:plann_online' on page 29 undefined on input line 1
-342.
-
-
-LaTeX Warning: Citation 'Fang2010' on page 29 undefined on input line 1354.
-
-
-LaTeX Warning: Citation 'Galceran2012' on page 29 undefined on input line 1354.
-
-
-
-LaTeX Warning: Citation 'Galceran2013b' on page 29 undefined on input line 1354
-.
-
-
-LaTeX Warning: Citation 'Galceran2013d' on page 29 undefined on input line 1354
-.
-
-
-LaTeX Warning: Citation 'Stack2003' on page 29 undefined on input line 1356.
-
-
-LaTeX Warning: Citation 'Williams2010' on page 29 undefined on input line 1356.
-
-
-
-LaTeX Warning: Citation 'Englot2010' on page 29 undefined on input line 1357.
-
-
-LaTeX Warning: Citation 'Hover2012' on page 29 undefined on input line 1357.
-
-
-LaTeX Warning: Citation 'Hollinger2013' on page 29 undefined on input line 1357
-.
-
-
-LaTeX Warning: Citation 'Englot2013' on page 29 undefined on input line 1357.
-
-
-LaTeX Warning: Citation 'Galceran2014' on page 29 undefined on input line 1358.
-
-
-
-LaTeX Warning: Citation 'Galceran2014b' on page 29 undefined on input line 1358
-.
-
-
-Overfull \hbox (32.19862pt too wide) in paragraph at lines 1348--1359
-[]\T1/pplj/m/n/10.95 , []]), as well as nat-u-ral ma-rine for-ma-tions [[],
- []
-
-[29]
-
-LaTeX Warning: Citation 'Vidal2017' on page 30 undefined on input line 1369.
-
-
-<2_state_of_the_art/figures/CPP-NaturalFormation.png, id=1254, 627.34375pt x 34
-6.29375pt>
-File: 2_state_of_the_art/figures/CPP-NaturalFormation.png Graphic file (type pn
-g)
- <use 2_state_of_the_art/figures/CPP-NaturalFormation.png>
-Package pdftex.def Info: 2_state_of_the_art/figures/CPP-NaturalFormation.png us
-ed on input line 1376.
-(pdftex.def)             Requested size: 180.0pt x 99.36052pt.
-
-
-LaTeX Warning: Citation 'Galceran2013b' on page 30 undefined on input line 1376
-.
-
-LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <9> not available
-(Font)              Font shape `T1/pplj/b/n' tried instead on input line 1376.
-
-LaTeX Warning: Citation 'Galceran2013b' on page 30 undefined on input line 1376
-.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1376--1376
-[][]|\T1/pplj/m/n/9 Cov-er-age path over of a nat-u-ral
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1376--1376
-\T1/pplj/m/n/9 for-ma-tion. Im-age credit: Gal-ceran
- []
-
-<2_state_of_the_art/figures/CPP-ShipHull.png, id=1255, 883.3pt x 302.12875pt>
-File: 2_state_of_the_art/figures/CPP-ShipHull.png Graphic file (type png)
-
-<use 2_state_of_the_art/figures/CPP-ShipHull.png>
-Package pdftex.def Info: 2_state_of_the_art/figures/CPP-ShipHull.png used on in
-put line 1380.
-(pdftex.def)             Requested size: 323.9978pt x 110.82237pt.
-
-
-LaTeX Warning: Citation 'Hover2012' on page 30 undefined on input line 1380.
-
-
-LaTeX Warning: Citation 'Englot2013' on page 30 undefined on input line 1380.
-
-
-LaTeX Warning: Citation 'Hover2012' on page 30 undefined on input line 1380.
-
-
-LaTeX Warning: Citation 'Englot2013' on page 30 undefined on input line 1380.
-
-
-Underfull \hbox (badness 1248) in paragraph at lines 1380--1380
-[][]|\T1/pplj/m/n/9 Cov-er-age path of a ship hull. Im-age credit: Hover et al.
- [[],
- []
-
-[30 <./2_state_of_the_art/figures/CPP-NaturalFormation.png> <./2_state_of_the_a
-rt/figures/CPP-ShipHull.png>]
-
-LaTeX Warning: Citation 'Petillot2001' on page 31 undefined on input line 1405.
-
-
-
-LaTeX Warning: Citation 'Poppinga2011' on page 31 undefined on input line 1405.
-
-
-
-LaTeX Warning: Citation 'Soulignac2011' on page 31 undefined on input line 1405
-.
-
-
-LaTeX Warning: Citation 'McMahon2016' on page 31 undefined on input line 1405.
-
-
-LaTeX Warning: Citation 'Warren1990' on page 31 undefined on input line 1412.
-
-
-LaTeX Warning: Citation 'Sequeira1994' on page 31 undefined on input line 1412.
-
-
-
-LaTeX Warning: Citation 'Sugihara1997' on page 31 undefined on input line 1413.
-
-
-
-LaTeX Warning: Citation 'Alvarez2004' on page 31 undefined on input line 1413.
-
-
-LaTeX Warning: Citation 'Hong-jian2004' on page 31 undefined on input line 1413
-.
-
-
-LaTeX Warning: Citation 'Ying2000' on page 31 undefined on input line 1414.
-
-
-LaTeX Warning: Citation 'Houts2012' on page 31 undefined on input line 1414.
-
-
-LaTeX Warning: Citation 'Carroll1992' on page 31 undefined on input line 1415.
-
-
-LaTeX Warning: Citation 'Sequeira1994' on page 31 undefined on input line 1415.
-
-
-
-LaTeX Warning: Citation 'Kim2012a' on page 31 undefined on input line 1415.
-
-
-LaTeX Warning: Citation 'Caldwell2010' on page 31 undefined on input line 1416.
-
-
-
-LaTeX Warning: Citation 'Poppinga2011' on page 31 undefined on input line 1416.
-
-
-
-LaTeX Warning: Citation 'McMahon2016' on page 31 undefined on input line 1416.
-
-
-Overfull \hbox (28.47253pt too wide) in paragraph at lines 1410--1424
-\T1/pplj/m/n/10.95 tions have made use of dif-fer-ent ap-proaches such as po-te
-n-tial fields [[],
- []
-
-
-Overfull \hbox (26.53033pt too wide) in paragraph at lines 1410--1424
-[]\T1/pplj/m/n/10.95 ], ge-netic al-go-rithms [[], [], []],
- []
-
-
-LaTeX Warning: Citation 'Ying2000' on page 31 undefined on input line 1452.
-
-
-LaTeX Warning: Citation 'Houts2012' on page 31 undefined on input line 1453.
-
-
-<2_state_of_the_art/figures/SensorBasedConstrainedAUV.png, id=1280, 608.2725pt 
-x 215.80624pt>
-File: 2_state_of_the_art/figures/SensorBasedConstrainedAUV.png Graphic file (ty
-pe png)
- <use 2_state_of_the_art/figures/SensorBasedConstrainedAUV.png>
-Package pdftex.def Info: 2_state_of_the_art/figures/SensorBasedConstrainedAUV.p
-ng used on input line 1463.
-(pdftex.def)             Requested size: 306.0022pt x 108.56802pt.
-
-
-LaTeX Warning: Citation 'Houts2012' on page 31 undefined on input line 1469.
-
-
-LaTeX Warning: Citation 'Houts2014' on page 31 undefined on input line 1469.
-
-
-LaTeX Warning: Citation 'Houts2012' on page 31 undefined on input line 1469.
-
-
-LaTeX Warning: Citation 'Houts2014' on page 31 undefined on input line 1469.
-
-
-LaTeX Warning: Citation 'Petillot2001' on page 31 undefined on input line 1475.
-
-
-
-Overfull \hbox (40.4027pt too wide) in paragraph at lines 1473--1485
-\T1/pplj/m/n/10.95 that de-scribes the ob-sta-cles as con-vex re-gions con-tain
-ed in the [][] [[]].
- []
-
-[31]
-
-LaTeX Warning: Citation 'Qu2009' on page 32 undefined on input line 1488.
-
-
-LaTeX Warning: Citation 'Murthy2010' on page 32 undefined on input line 1489.
-
-Package acronym Info: Label `acro:FM' newly defined as it shall be overridden
-although it is yet undefined on input line 1497.
-
-LaTeX Warning: Citation 'Petres2007' on page 32 undefined on input line 1499.
-
-Package acronym Info: Label `acro:GA' newly defined as it shall be overridden
-although it is yet undefined on input line 1501.
-Package acronym Info: Label `acro:B-spline' newly defined as it shall be overri
-dden
-although it is yet undefined on input line 1501.
-
-LaTeX Warning: Citation 'Cheng2010' on page 32 undefined on input line 1502.
-
-
-<2_state_of_the_art/figures/CostFunctionConstrainedAUV-a.png, id=1295, 292.0912
-5pt x 230.8625pt>
-File: 2_state_of_the_art/figures/CostFunctionConstrainedAUV-a.png Graphic file 
-(type png)
-
-<use 2_state_of_the_art/figures/CostFunctionConstrainedAUV-a.png>
-Package pdftex.def Info: 2_state_of_the_art/figures/CostFunctionConstrainedAUV-
-a.png used on input line 1508.
-(pdftex.def)             Requested size: 108.0011pt x 85.36142pt.
-
-<2_state_of_the_art/figures/CostFunctionConstrainedAUV-b.png, id=1296, 291.0875
-pt x 230.8625pt>
-File: 2_state_of_the_art/figures/CostFunctionConstrainedAUV-b.png Graphic file 
-(type png)
-
-<use 2_state_of_the_art/figures/CostFunctionConstrainedAUV-b.png>
-Package pdftex.def Info: 2_state_of_the_art/figures/CostFunctionConstrainedAUV-
-b.png used on input line 1511.
-(pdftex.def)             Requested size: 108.0011pt x 85.6538pt.
-
-<2_state_of_the_art/figures/CostFunctionConstrainedAUV-c.png, id=1297, 292.0912
-5pt x 230.8625pt>
-File: 2_state_of_the_art/figures/CostFunctionConstrainedAUV-c.png Graphic file 
-(type png)
-
-<use 2_state_of_the_art/figures/CostFunctionConstrainedAUV-c.png>
-Package pdftex.def Info: 2_state_of_the_art/figures/CostFunctionConstrainedAUV-
-c.png used on input line 1514.
-(pdftex.def)             Requested size: 108.0011pt x 85.36142pt.
-
-
-LaTeX Warning: Citation 'Petres2007' on page 32 undefined on input line 1523.
-
-
-LaTeX Warning: Citation 'Petres2007' on page 32 undefined on input line 1523.
-
-Package acronym Info: Label `acro:HLP' newly defined as it shall be overridden
-although it is yet undefined on input line 1530.
-Package acronym Info: Label `acro:LLP' newly defined as it shall be overridden
-although it is yet undefined on input line 1530.
-
-LaTeX Warning: Citation 'Sequeira1994' on page 32 undefined on input line 1530.
-
-
-Package acronym Info: Label `acro:AFP' newly defined as it shall be overridden
-although it is yet undefined on input line 1536.
-
-LaTeX Warning: Citation 'Arinaga1996' on page 32 undefined on input line 1540.
-
-
-Overfull \hbox (1.2516pt too wide) in paragraph at lines 1527--1544
-[]\T1/pplj/m/n/10.95 Unlike the pre-vi-ous group of sensor-based ap-proaches, t
-he sec-ond group
- []
-
-[32 <./2_state_of_the_art/figures/SensorBasedConstrainedAUV.png>]
-<2_state_of_the_art/figures/GridBasedLocalConstrAUV-a.png, id=1326, 774.895pt x
- 345.29pt>
-File: 2_state_of_the_art/figures/GridBasedLocalConstrAUV-a.png Graphic file (ty
-pe png)
- <use 2_state_of_the_art/figures/GridBasedLocalConstrAUV-a.png>
-Package pdftex.def Info: 2_state_of_the_art/figures/GridBasedLocalConstrAUV-a.p
-ng used on input line 1549.
-(pdftex.def)             Requested size: 198.0011pt x 88.22427pt.
-
-<2_state_of_the_art/figures/GridBasedLocalConstrAUV-b.png, id=1327, 756.8275pt 
-x 532.99126pt>
-File: 2_state_of_the_art/figures/GridBasedLocalConstrAUV-b.png Graphic file (ty
-pe png)
- <use 2_state_of_the_art/figures/GridBasedLocalConstrAUV-b.png>
-Package pdftex.def Info: 2_state_of_the_art/figures/GridBasedLocalConstrAUV-b.p
-ng used on input line 1552.
-(pdftex.def)             Requested size: 143.9978pt x 101.40764pt.
-
-
-LaTeX Warning: Citation 'Arinaga1996' on page 33 undefined on input line 1558.
-
-
-LaTeX Warning: Citation 'Arinaga1996' on page 33 undefined on input line 1558.
-
-
-LaTeX Warning: Citation 'Tan2004' on page 33 undefined on input line 1565.
-
-
-LaTeX Warning: Citation 'Caldwell2010' on page 33 undefined on input line 1565.
-
-
-
-LaTeX Warning: Citation 'Heo2013' on page 33 undefined on input line 1565.
-
-
-Overfull \hbox (30.83276pt too wide) in paragraph at lines 1562--1570
-\T1/pplj/m/n/10.95 en-tial equa-tion that de-scribes the [][] dy-namic be-hav-i
-or [[], [],
- []
-
-
-LaTeX Warning: Citation 'Dubins1957' on page 33 undefined on input line 1572.
-
-
-LaTeX Warning: Citation 'Wehbe2014' on page 33 undefined on input line 1577.
-
-
-LaTeX Warning: Citation 'Cao2016' on page 33 undefined on input line 1577.
-
-
-LaTeX Warning: Citation 'Petillot2001' on page 33 undefined on input line 1618.
-
-
-
-LaTeX Warning: Citation 'Maki2007' on page 33 undefined on input line 1621.
-
-
-Overfull \hbox (38.61221pt too wide) in paragraph at lines 1614--1622
-\T1/pplj/m/n/10.95 re-sults were ob-tained in a con-trolled en-vi-ron-ment (i.e
-., in a wa-ter tank) [[]]. 
- []
-
-[33 <./2_state_of_the_art/figures/CostFunctionConstrainedAUV-a.png> <./2_state_
-of_the_art/figures/CostFunctionConstrainedAUV-b.png> <./2_state_of_the_art/figu
-res/CostFunctionConstrainedAUV-c.png> <./2_state_of_the_art/figures/GridBasedLo
-calConstrAUV-a.png> <./2_state_of_the_art/figures/GridBasedLocalConstrAUV-b.png
->]
-Overfull \hbox (1.6172pt too wide) in paragraph at lines 1638--1658
- [] 
- []
-
-) [34]
-\openout2 = `3_motion_constraints/planning_motion_constraints.aux'.
-
- (./3_motion_constraints/planning_motion_constraints.tex
-chapter 3.
-[35
-
-
-
-
-
-
-]
-<3_motion_constraints/figures/RefFramesAUV2D.png, id=1388, 1008.1665pt x 830.38
-23pt>
-File: 3_motion_constraints/figures/RefFramesAUV2D.png Graphic file (type png)
- <use 3_motion_constraints/figures/RefFramesAUV2D.png>
-Package pdftex.def Info: 3_motion_constraints/figures/RefFramesAUV2D.png used o
-n input line 115.
-(pdftex.def)             Requested size: 251.9989pt x 207.55705pt.
-
-
-LaTeX Warning: Citation 'LaValle2001' on page 36 undefined on input line 138.
-
-
-LaTeX Warning: Reference `ch:plann_online' on page 36 undefined on input line 1
-43.
-
-[36 <./3_motion_constraints/figures/RefFramesAUV2D.png>]
-
-LaTeX Warning: Citation 'Kuffner2000' on page 37 undefined on input line 153.
-
-
-LaTeX Warning: Citation 'Choset2005' on page 37 undefined on input line 167.
-
-
-LaTeX Warning: Citation 'LaValle2006' on page 37 undefined on input line 167.
-
-
-LaTeX Warning: Citation 'LaValle2001' on page 37 undefined on input line 213.
-
-[37]
-<3_motion_constraints/figures/ControlInputSampling.png, id=1431, 455.301pt x 35
-4.8457pt>
-File: 3_motion_constraints/figures/ControlInputSampling.png Graphic file (type 
-png)
- <use 3_motion_constraints/figures/ControlInputSampling.png>
-Package pdftex.def Info: 3_motion_constraints/figures/ControlInputSampling.png 
-used on input line 241.
-(pdftex.def)             Requested size: 216.0022pt x 168.34229pt.
-
-<3_motion_constraints/figures/ExpansionRRTDiff-a.png, id=1439, 1505.3841pt x 75
-7.3896pt>
-File: 3_motion_constraints/figures/ExpansionRRTDiff-a.png Graphic file (type pn
-g)
- <use 3_motion_constraints/figures/ExpansionRRTDiff-a.png>
-Package pdftex.def Info: 3_motion_constraints/figures/ExpansionRRTDiff-a.png us
-ed on input line 266.
-(pdftex.def)             Requested size: 151.19934pt x 76.06699pt.
-
-<3_motion_constraints/figures/ExpansionRRTDiff-b.png, id=1440, 1507.5522pt x 75
-8.1123pt>
-File: 3_motion_constraints/figures/ExpansionRRTDiff-b.png Graphic file (type pn
-g)
- <use 3_motion_constraints/figures/ExpansionRRTDiff-b.png>
-Package pdftex.def Info: 3_motion_constraints/figures/ExpansionRRTDiff-b.png us
-ed on input line 269.
-(pdftex.def)             Requested size: 151.19934pt x 76.02388pt.
-
-<3_motion_constraints/figures/ExpansionRRTDiff-c.png, id=1441, 1507.5522pt x 75
-9.5577pt>
-File: 3_motion_constraints/figures/ExpansionRRTDiff-c.png Graphic file (type pn
-g)
- <use 3_motion_constraints/figures/ExpansionRRTDiff-c.png>
-Package pdftex.def Info: 3_motion_constraints/figures/ExpansionRRTDiff-c.png us
-ed on input line 272.
-(pdftex.def)             Requested size: 151.19934pt x 76.16884pt.
-
-
-LaTeX Warning: Citation 'Yang2008' on page 38 undefined on input line 295.
-
-Package acronym Info: Label `acro:UAV' newly defined as it shall be overridden
-although it is yet undefined on input line 296.
-
-LaTeX Warning: Citation 'Kuwata2009' on page 38 undefined on input line 298.
-
-[38 <./3_motion_constraints/figures/ControlInputSampling.png>]
-
-LaTeX Warning: Citation 'Yang2008' on page 39 undefined on input line 305.
-
-
-LaTeX Warning: Citation 'Kuwata2009' on page 39 undefined on input line 308.
-
-
-LaTeX Warning: Citation 'Karaman2011' on page 39 undefined on input line 320.
-
-[39 <./3_motion_constraints/figures/ExpansionRRTDiff-a.png> <./3_motion_constra
-ints/figures/ExpansionRRTDiff-b.png> <./3_motion_constraints/figures/ExpansionR
-RTDiff-c.png>]
-
-LaTeX Warning: Citation 'Dubins1957' on page 40 undefined on input line 333.
-
-
-<3_motion_constraints/figures/DubinsRSL.png, id=1482, 927.2241pt x 653.3208pt>
-File: 3_motion_constraints/figures/DubinsRSL.png Graphic file (type png)
-
-<use 3_motion_constraints/figures/DubinsRSL.png>
-Package pdftex.def Info: 3_motion_constraints/figures/DubinsRSL.png used on inp
-ut line 348.
-(pdftex.def)             Requested size: 161.9989pt x 114.14343pt.
-
-<3_motion_constraints/figures/DubinsLRL.png, id=1483, 677.1699pt x 610.6815pt>
-File: 3_motion_constraints/figures/DubinsLRL.png Graphic file (type png)
-
-<use 3_motion_constraints/figures/DubinsLRL.png>
-Package pdftex.def Info: 3_motion_constraints/figures/DubinsLRL.png used on inp
-ut line 357.
-(pdftex.def)             Requested size: 118.80066pt x 107.13177pt.
-
-
-LaTeX Warning: Citation 'Dubins1957' on page 40 undefined on input line 386.
-
-
-LaTeX Warning: Citation 'Shkel2001' on page 40 undefined on input line 386.
-
-[40 <./3_motion_constraints/figures/DubinsRSL.png> <./3_motion_constraints/figu
-res/DubinsLRL.png>]
-<3_motion_constraints/figures/ExpansionRRTDubins-a.png, id=1503, 1514.0565pt x 
-866.5173pt>
-File: 3_motion_constraints/figures/ExpansionRRTDubins-a.png Graphic file (type 
-png)
- <use 3_motion_constraints/figures/ExpansionRRTDubins-a.png>
-Package pdftex.def Info: 3_motion_constraints/figures/ExpansionRRTDubins-a.png 
-used on input line 392.
-(pdftex.def)             Requested size: 151.19934pt x 86.52458pt.
-
-<3_motion_constraints/figures/ExpansionRRTDubins-b.png, id=1504, 1513.3338pt x 
-866.5173pt>
-File: 3_motion_constraints/figures/ExpansionRRTDubins-b.png Graphic file (type 
-png)
- <use 3_motion_constraints/figures/ExpansionRRTDubins-b.png>
-Package pdftex.def Info: 3_motion_constraints/figures/ExpansionRRTDubins-b.png 
-used on input line 395.
-(pdftex.def)             Requested size: 151.19934pt x 86.56424pt.
-
-<3_motion_constraints/figures/ExpansionRRTDubinsComplete.png, id=1505, 1513.333
-8pt x 866.5173pt>
-File: 3_motion_constraints/figures/ExpansionRRTDubinsComplete.png Graphic file 
-(type png)
-
-<use 3_motion_constraints/figures/ExpansionRRTDubinsComplete.png>
-Package pdftex.def Info: 3_motion_constraints/figures/ExpansionRRTDubinsComplet
-e.png used on input line 398.
-(pdftex.def)             Requested size: 151.19934pt x 86.56424pt.
-
-<3_motion_constraints/figures/ReconnectionRRTstarDubins-a.png, id=1514, 1675.21
-86pt x 1589.2173pt>
-File: 3_motion_constraints/figures/ReconnectionRRTstarDubins-a.png Graphic file
- (type png)
-
-<use 3_motion_constraints/figures/ReconnectionRRTstarDubins-a.png>
-Package pdftex.def Info: 3_motion_constraints/figures/ReconnectionRRTstarDubins
--a.png used on input line 414.
-(pdftex.def)             Requested size: 180.0pt x 170.74052pt.
-
-<3_motion_constraints/figures/ReconnectionRRTstarDubins-b.png, id=1515, 1675.21
-86pt x 1589.2173pt>
-File: 3_motion_constraints/figures/ReconnectionRRTstarDubins-b.png Graphic file
- (type png)
-
-<use 3_motion_constraints/figures/ReconnectionRRTstarDubins-b.png>
-Package pdftex.def Info: 3_motion_constraints/figures/ReconnectionRRTstarDubins
--b.png used on input line 417.
-(pdftex.def)             Requested size: 180.0pt x 170.74052pt.
-
-<3_motion_constraints/figures/ReconnectionRRTstarDubins-c.png, id=1516, 1675.21
-86pt x 1589.2173pt>
-File: 3_motion_constraints/figures/ReconnectionRRTstarDubins-c.png Graphic file
- (type png)
-
-<use 3_motion_constraints/figures/ReconnectionRRTstarDubins-c.png>
-Package pdftex.def Info: 3_motion_constraints/figures/ReconnectionRRTstarDubins
--c.png used on input line 420.
-(pdftex.def)             Requested size: 180.0pt x 170.74052pt.
-
-
-LaTeX Warning: Citation 'Choset2005' on page 41 undefined on input line 471.
-
-[41 <./3_motion_constraints/figures/ExpansionRRTDubins-a.png> <./3_motion_const
-raints/figures/ExpansionRRTDubins-b.png> <./3_motion_constraints/figures/Expans
-ionRRTDubinsComplete.png>] [42 <./3_motion_constraints/figures/ReconnectionRRTs
-tarDubins-a.png> <./3_motion_constraints/figures/ReconnectionRRTstarDubins-b.pn
-g> <./3_motion_constraints/figures/ReconnectionRRTstarDubins-c.png>]
-<3_motion_constraints/figures/PlannGeomRRTScen2.png, id=1559, 448.7967pt x 347.
-6187pt>
-File: 3_motion_constraints/figures/PlannGeomRRTScen2.png Graphic file (type png
-)
- <use 3_motion_constraints/figures/PlannGeomRRTScen2.png>
-Package pdftex.def Info: 3_motion_constraints/figures/PlannGeomRRTScen2.png use
-d on input line 477.
-(pdftex.def)             Requested size: 161.9989pt x 125.47679pt.
-
-<3_motion_constraints/figures/PlannGeomRRTstarScen2.png, id=1562, 448.7967pt x 
-347.6187pt>
-File: 3_motion_constraints/figures/PlannGeomRRTstarScen2.png Graphic file (type
- png)
- <use 3_motion_constraints/figures/PlannGeomRRTstarScen2.png>
-Package pdftex.def Info: 3_motion_constraints/figures/PlannGeomRRTstarScen2.png
- used on input line 480.
-(pdftex.def)             Requested size: 161.9989pt x 125.47679pt.
-
-<3_motion_constraints/figures/PlannGeomRRTstarQ1Miss.png, id=1577, 1003.75pt x 
-853.1875pt>
-File: 3_motion_constraints/figures/PlannGeomRRTstarQ1Miss.png Graphic file (typ
-e png)
- <use 3_motion_constraints/figures/PlannGeomRRTstarQ1Miss.png>
-Package pdftex.def Info: 3_motion_constraints/figures/PlannGeomRRTstarQ1Miss.pn
-g used on input line 518.
-(pdftex.def)             Requested size: 161.9989pt x 137.69748pt.
-
-<3_motion_constraints/figures/PlannGeomRRTstarQ2Miss.png, id=1578, 1003.75pt x 
-853.1875pt>
-File: 3_motion_constraints/figures/PlannGeomRRTstarQ2Miss.png Graphic file (typ
-e png)
- <use 3_motion_constraints/figures/PlannGeomRRTstarQ2Miss.png>
-Package pdftex.def Info: 3_motion_constraints/figures/PlannGeomRRTstarQ2Miss.pn
-g used on input line 521.
-(pdftex.def)             Requested size: 161.9989pt x 137.69748pt.
-
-[43 <./3_motion_constraints/figures/PlannGeomRRTScen2.png> <./3_motion_constrai
-nts/figures/PlannGeomRRTstarScen2.png>]
-<3_motion_constraints/figures/PlannKinodRRTQ1Miss.png, id=1601, 983.675pt x 863
-.225pt>
-File: 3_motion_constraints/figures/PlannKinodRRTQ1Miss.png Graphic file (type p
-ng)
- <use 3_motion_constraints/figures/PlannKinodRRTQ1Miss.png>
-Package pdftex.def Info: 3_motion_constraints/figures/PlannKinodRRTQ1Miss.png u
-sed on input line 573.
-(pdftex.def)             Requested size: 161.9989pt x 142.14937pt.
-
-<3_motion_constraints/figures/PlannKinodRRTQ2Miss.png, id=1602, 982.67125pt x 8
-63.225pt>
-File: 3_motion_constraints/figures/PlannKinodRRTQ2Miss.png Graphic file (type p
-ng)
- <use 3_motion_constraints/figures/PlannKinodRRTQ2Miss.png>
-Package pdftex.def Info: 3_motion_constraints/figures/PlannKinodRRTQ2Miss.png u
-sed on input line 576.
-(pdftex.def)             Requested size: 161.9989pt x 142.30743pt.
-
-<3_motion_constraints/figures/PlannDubinsRRTstarQ1Miss.png, id=1603, 1003.75pt 
-x 853.1875pt>
-File: 3_motion_constraints/figures/PlannDubinsRRTstarQ1Miss.png Graphic file (t
-ype png)
- <use 3_motion_constraints/figures/PlannDubinsRRTstarQ1Miss.png>
-Package pdftex.def Info: 3_motion_constraints/figures/PlannDubinsRRTstarQ1Miss.
-png used on input line 579.
-(pdftex.def)             Requested size: 161.9989pt x 137.69748pt.
-
-<3_motion_constraints/figures/PlannDubinsRRTstarQ2Miss.png, id=1604, 1003.75pt 
-x 853.1875pt>
-File: 3_motion_constraints/figures/PlannDubinsRRTstarQ2Miss.png Graphic file (t
-ype png)
- <use 3_motion_constraints/figures/PlannDubinsRRTstarQ2Miss.png>
-Package pdftex.def Info: 3_motion_constraints/figures/PlannDubinsRRTstarQ2Miss.
-png used on input line 582.
-(pdftex.def)             Requested size: 161.9989pt x 137.69748pt.
-
-
-LaTeX Warning: Reference `ch:plann_online' on page 44 undefined on input line 6
-32.
-
-
-Overfull \hbox (0.45613pt too wide) in paragraph at lines 623--633
-\T1/pplj/m/n/10.95 which work as a steer-ing func-tion equiv-a-lent to Eq. []. 
-Fig-ures [][]29c[][] and [][]29d[][]
- []
-
-) [44 <./3_motion_constraints/figures/PlannGeomRRTstarQ1Miss.png> <./3_motion_c
-onstraints/figures/PlannGeomRRTstarQ2Miss.png>] [45 <./3_motion_constraints/fig
-ures/PlannKinodRRTQ1Miss.png> <./3_motion_constraints/figures/PlannKinodRRTQ2Mi
-ss.png> <./3_motion_constraints/figures/PlannDubinsRRTstarQ1Miss.png> <./3_moti
-on_constraints/figures/PlannDubinsRRTstarQ2Miss.png>]
-\openout2 = `4_planning_3D/planning_3D.aux'.
-
-
-(./4_planning_3D/planning_3D.tex
-chapter 4.
-
-LaTeX Warning: Citation 'Smith2010' on page 46 undefined on input line 44.
-
-
-LaTeX Warning: Citation 'Thompson2010' on page 46 undefined on input line 44.
-
-
-LaTeX Warning: Citation 'Ying2000' on page 46 undefined on input line 60.
-
-
-LaTeX Warning: Citation 'Wehbe2014' on page 46 undefined on input line 60.
-
-<4_planning_3D/figures/RefFramesAUV3D.png, id=1673, 1632.0975pt x 993.7125pt>
-File: 4_planning_3D/figures/RefFramesAUV3D.png Graphic file (type png)
-
-<use 4_planning_3D/figures/RefFramesAUV3D.png>
-Package pdftex.def Info: 4_planning_3D/figures/RefFramesAUV3D.png used on input
- line 72.
-(pdftex.def)             Requested size: 323.9978pt x 197.26817pt.
- [46
-
-
-
-
-
-
-]
-Overfull \hbox (3.4972pt too wide) in paragraph at lines 103--113
-\T1/pplj/m/n/10.95 The sec-ond group's, on the other hand, are nor-mally de-sig
-ned and trimmed
- []
-
-
-LaTeX Warning: Citation 'Wadoo2010' on page 47 undefined on input line 129.
-
-[47 <./4_planning_3D/figures/RefFramesAUV3D.png>]
-
-LaTeX Warning: Citation 'Qu2009' on page 48 undefined on input line 178.
-
-[48]
-
-LaTeX Warning: Citation 'Heo2013' on page 49 undefined on input line 283.
-
-
-LaTeX Warning: Citation 'Miskovic2010' on page 49 undefined on input line 303.
-
-[49] [50]
-<4_planning_3D/figures/S2StraightDescentWithoutPitch.png, id=1744, 1182.4175pt 
-x 652.4375pt>
-File: 4_planning_3D/figures/S2StraightDescentWithoutPitch.png Graphic file (typ
-e png)
- <use 4_planning_3D/figures/S2StraightDescentWithoutPitch.png>
-Package pdftex.def Info: 4_planning_3D/figures/S2StraightDescentWithoutPitch.pn
-g used on input line 379.
-(pdftex.def)             Requested size: 190.79956pt x 105.27815pt.
-
-<4_planning_3D/figures/S2DescentConstraintValid.png, id=1748, 1183.42125pt x 65
-2.4375pt>
-File: 4_planning_3D/figures/S2DescentConstraintValid.png Graphic file (type png
-)
- <use 4_planning_3D/figures/S2DescentConstraintValid.png>
-Package pdftex.def Info: 4_planning_3D/figures/S2DescentConstraintValid.png use
-d on input line 407.
-(pdftex.def)             Requested size: 161.9989pt x 89.30972pt.
-
-<4_planning_3D/figures/S2DescentConstraintNoValid.png, id=1749, 1183.42125pt x 
-652.4375pt>
-File: 4_planning_3D/figures/S2DescentConstraintNoValid.png Graphic file (type p
-ng)
- <use 4_planning_3D/figures/S2DescentConstraintNoValid.png>
-Package pdftex.def Info: 4_planning_3D/figures/S2DescentConstraintNoValid.png u
-sed on input line 410.
-(pdftex.def)             Requested size: 161.9989pt x 89.30972pt.
- [51 <./4_planning_3D/figures/S2StraightDescentWithoutPitch.png>]
-<4_planning_3D/figures/S2PlannOffBlocksRRTstarGeom3D_top.png, id=1763, 1003.75p
-t x 752.8125pt>
-File: 4_planning_3D/figures/S2PlannOffBlocksRRTstarGeom3D_top.png Graphic file 
-(type png)
-
-<use 4_planning_3D/figures/S2PlannOffBlocksRRTstarGeom3D_top.png>
-Package pdftex.def Info: 4_planning_3D/figures/S2PlannOffBlocksRRTstarGeom3D_to
-p.png used on input line 451.
-(pdftex.def)             Requested size: 233.9978pt x 175.49806pt.
-
-<4_planning_3D/figures/S2PlannOffBlocksRRTstarGeom3D_front.png, id=1764, 1004.7
-5375pt x 652.4375pt>
-File: 4_planning_3D/figures/S2PlannOffBlocksRRTstarGeom3D_front.png Graphic fil
-e (type png)
-
-<use 4_planning_3D/figures/S2PlannOffBlocksRRTstarGeom3D_front.png>
-Package pdftex.def Info: 4_planning_3D/figures/S2PlannOffBlocksRRTstarGeom3D_fr
-ont.png used on input line 454.
-(pdftex.def)             Requested size: 233.9978pt x 151.93903pt.
-
-<4_planning_3D/figures/S2PlannOffBlocksRRTstarGeom3D_back.png, id=1765, 1003.75
-pt x 653.44125pt>
-File: 4_planning_3D/figures/S2PlannOffBlocksRRTstarGeom3D_back.png Graphic file
- (type png)
-
-<use 4_planning_3D/figures/S2PlannOffBlocksRRTstarGeom3D_back.png>
-Package pdftex.def Info: 4_planning_3D/figures/S2PlannOffBlocksRRTstarGeom3D_ba
-ck.png used on input line 457.
-(pdftex.def)             Requested size: 233.9978pt x 152.3323pt.
-
-<4_planning_3D/figures/CircDescDubinsRRTstar3D_Top.png, id=1769, 1216.545pt x 9
-39.51pt>
-File: 4_planning_3D/figures/CircDescDubinsRRTstar3D_Top.png Graphic file (type 
-png)
- <use 4_planning_3D/figures/CircDescDubinsRRTstar3D_Top.png>
-Package pdftex.def Info: 4_planning_3D/figures/CircDescDubinsRRTstar3D_Top.png 
-used on input line 493.
-(pdftex.def)             Requested size: 161.9989pt x 125.10808pt.
-
-<4_planning_3D/figures/CircDescDubinsRRTstar3D_Top_.png, id=1770, 1218.5525pt x
- 939.51pt>
-File: 4_planning_3D/figures/CircDescDubinsRRTstar3D_Top_.png Graphic file (type
- png)
- <use 4_planning_3D/figures/CircDescDubinsRRTstar3D_Top_.png>
-Package pdftex.def Info: 4_planning_3D/figures/CircDescDubinsRRTstar3D_Top_.png
- used on input line 496.
-(pdftex.def)             Requested size: 161.9989pt x 124.89305pt.
-
-<4_planning_3D/figures/CircDescDubinsRRTstar3D_11.png, id=1771, 682.55pt x 521.
-95pt>
-File: 4_planning_3D/figures/CircDescDubinsRRTstar3D_11.png Graphic file (type p
-ng)
- <use 4_planning_3D/figures/CircDescDubinsRRTstar3D_11.png>
-Package pdftex.def Info: 4_planning_3D/figures/CircDescDubinsRRTstar3D_11.png u
-sed on input line 505.
-(pdftex.def)             Requested size: 161.9989pt x 123.8768pt.
-
-<4_planning_3D/figures/CircDescDubinsRRTstar3D_11_.png, id=1772, 682.55pt x 521
-.95pt>
-File: 4_planning_3D/figures/CircDescDubinsRRTstar3D_11_.png Graphic file (type 
-png)
- <use 4_planning_3D/figures/CircDescDubinsRRTstar3D_11_.png>
-Package pdftex.def Info: 4_planning_3D/figures/CircDescDubinsRRTstar3D_11_.png 
-used on input line 508.
-(pdftex.def)             Requested size: 161.9989pt x 123.8768pt.
-
-<4_planning_3D/figures/S2PlannOffBlocksRRTstarDubins3D_top.png, id=1777, 1110.1
-475pt x 845.1575pt>
-File: 4_planning_3D/figures/S2PlannOffBlocksRRTstarDubins3D_top.png Graphic fil
-e (type png)
-
-<use 4_planning_3D/figures/S2PlannOffBlocksRRTstarDubins3D_top.png>
-Package pdftex.def Info: 4_planning_3D/figures/S2PlannOffBlocksRRTstarDubins3D_
-top.png used on input line 536.
-(pdftex.def)             Requested size: 233.9978pt x 178.13312pt.
-
-<4_planning_3D/figures/S2PlannOffBlocksRRTstarDubins3D_front.png, id=1778, 1455
-.4375pt x 983.675pt>
-File: 4_planning_3D/figures/S2PlannOffBlocksRRTstarDubins3D_front.png Graphic f
-ile (type png)
-
-<use 4_planning_3D/figures/S2PlannOffBlocksRRTstarDubins3D_front.png>
-Package pdftex.def Info: 4_planning_3D/figures/S2PlannOffBlocksRRTstarDubins3D_
-front.png used on input line 539.
-(pdftex.def)             Requested size: 233.9978pt x 158.1417pt.
-
-<4_planning_3D/figures/S2PlannOffBlocksRRTstarDubins3D_back.png, id=1779, 1455.
-4375pt x 983.675pt>
-File: 4_planning_3D/figures/S2PlannOffBlocksRRTstarDubins3D_back.png Graphic fi
-le (type png)
-
-<use 4_planning_3D/figures/S2PlannOffBlocksRRTstarDubins3D_back.png>
-Package pdftex.def Info: 4_planning_3D/figures/S2PlannOffBlocksRRTstarDubins3D_
-back.png used on input line 542.
-(pdftex.def)             Requested size: 233.9978pt x 158.1417pt.
- [52 <./4_planning_3D/figures/S2DescentConstraintValid.png> <./4_planning_3D/fi
-gures/S2DescentConstraintNoValid.png>] [53 <./4_planning_3D/figures/S2PlannOffB
-locksRRTstarGeom3D_top.png> <./4_planning_3D/figures/S2PlannOffBlocksRRTstarGeo
-m3D_front.png> <./4_planning_3D/figures/S2PlannOffBlocksRRTstarGeom3D_back.png>
-] [54 <./4_planning_3D/figures/CircDescDubinsRRTstar3D_Top.png> <./4_planning_3
-D/figures/CircDescDubinsRRTstar3D_Top_.png> <./4_planning_3D/figures/CircDescDu
-binsRRTstar3D_11.png> <./4_planning_3D/figures/CircDescDubinsRRTstar3D_11_.png>
-] [55 <./4_planning_3D/figures/S2PlannOffBlocksRRTstarDubins3D_top.png> <./4_pl
-anning_3D/figures/S2PlannOffBlocksRRTstarDubins3D_front.png> <./4_planning_3D/f
-igures/S2PlannOffBlocksRRTstarDubins3D_back.png>]
-<4_planning_3D/figures/S2PlannOffSeamountRRTstDubins3D_Top.png, id=1816, 1148.2
-9pt x 842.14626pt>
-File: 4_planning_3D/figures/S2PlannOffSeamountRRTstDubins3D_Top.png Graphic fil
-e (type png)
-
-<use 4_planning_3D/figures/S2PlannOffSeamountRRTstDubins3D_Top.png>
-Package pdftex.def Info: 4_planning_3D/figures/S2PlannOffSeamountRRTstDubins3D_
-Top.png used on input line 574.
-(pdftex.def)             Requested size: 161.9989pt x 118.79918pt.
-
-<4_planning_3D/figures/S2PlannOffSeamountRRTstDubins3D_B.png, id=1817, 1342.013
-75pt x 983.675pt>
-File: 4_planning_3D/figures/S2PlannOffSeamountRRTstDubins3D_B.png Graphic file 
-(type png)
-
-<use 4_planning_3D/figures/S2PlannOffSeamountRRTstDubins3D_B.png>
-Package pdftex.def Info: 4_planning_3D/figures/S2PlannOffSeamountRRTstDubins3D_
-B.png used on input line 580.
-(pdftex.def)             Requested size: 161.9989pt x 118.74135pt.
-
-<4_planning_3D/figures/S2PlannOffSeamountRRTstDubins3D_C.png, id=1818, 1342.013
-75pt x 983.675pt>
-File: 4_planning_3D/figures/S2PlannOffSeamountRRTstDubins3D_C.png Graphic file 
-(type png)
-
-<use 4_planning_3D/figures/S2PlannOffSeamountRRTstDubins3D_C.png>
-Package pdftex.def Info: 4_planning_3D/figures/S2PlannOffSeamountRRTstDubins3D_
-C.png used on input line 583.
-(pdftex.def)             Requested size: 161.9989pt x 118.74135pt.
-
-<4_planning_3D/figures/S2PlannOffSeamountRRTstDubins3D_D.png, id=1819, 1342.013
-75pt x 983.675pt>
-File: 4_planning_3D/figures/S2PlannOffSeamountRRTstDubins3D_D.png Graphic file 
-(type png)
-
-<use 4_planning_3D/figures/S2PlannOffSeamountRRTstDubins3D_D.png>
-Package pdftex.def Info: 4_planning_3D/figures/S2PlannOffSeamountRRTstDubins3D_
-D.png used on input line 586.
-(pdftex.def)             Requested size: 161.9989pt x 118.74135pt.
-) [56 <./4_planning_3D/figures/S2PlannOffSeamountRRTstDubins3D_Top.png> <./4_pl
-anning_3D/figures/S2PlannOffSeamountRRTstDubins3D_B.png> <./4_planning_3D/figur
-es/S2PlannOffSeamountRRTstDubins3D_C.png> <./4_planning_3D/figures/S2PlannOffSe
-amountRRTstDubins3D_D.png>]
-\openout2 = `6_applications/applications.aux'.
-
- (./6_applications/applications.tex
-chapter 5.
-
-LaTeX Warning: Reference `sec:RiskFunctions' on page 57 undefined on input line
- 31.
-
-
-LaTeX Warning: Reference `sec:OportStateCheck' on page 57 undefined on input li
-ne 36.
-
-
-LaTeX Warning: Reference `sec:ReuseLastBestKnownSol' on page 57 undefined on in
-put line 36.
-
-Package acronym Info: Label `acro:NED' newly defined as it shall be overridden
-although it is yet undefined on input line 71.
-[57
-
-
-
-
-
-
-]
-<6_applications/figures/BreakwaterStructureSatelliteView.png, id=1852, 1478.523
-74pt x 853.1875pt>
-File: 6_applications/figures/BreakwaterStructureSatelliteView.png Graphic file 
-(type png)
-
-<use 6_applications/figures/BreakwaterStructureSatelliteView.png>
-Package pdftex.def Info: 6_applications/figures/BreakwaterStructureSatelliteVie
-w.png used on input line 87.
-(pdftex.def)             Requested size: 251.9989pt x 145.40448pt.
-
-<6_applications/figures/BreakwaterStructureInternal.jpg, id=1853, 2553.54pt x 1
-473.505pt>
-File: 6_applications/figures/BreakwaterStructureInternal.jpg Graphic file (type
- jpg)
- <use 6_applications/figures/BreakwaterStructureInternal.jpg>
-Package pdftex.def Info: 6_applications/figures/BreakwaterStructureInternal.jpg
- used on input line 91.
-(pdftex.def)             Requested size: 161.9989pt x 93.46535pt.
-
-<6_applications/figures/BreakwaterStructureUWsim.png, id=1854, 804.00375pt x 46
-4.73625pt>
-File: 6_applications/figures/BreakwaterStructureUWsim.png Graphic file (type pn
-g)
- <use 6_applications/figures/BreakwaterStructureUWsim.png>
-Package pdftex.def Info: 6_applications/figures/BreakwaterStructureUWsim.png us
-ed on input line 94.
-(pdftex.def)             Requested size: 161.9989pt x 93.63345pt.
-
-
-LaTeX Warning: Reference `sub@fig:SantFeliuPort' on page 58 undefined on input 
-line 102.
-
-Package acronym Info: Label `acro:UWSim' newly defined as it shall be overridde
-n
-although it is yet undefined on input line 102.
-
-LaTeX Warning: Reference `sub@fig:SantFeliuPort' on page 58 undefined on input 
-line 102.
-
-
-LaTeX Warning: Reference `fig:ConcreteBlocksOctomap' on page 58 undefined on in
-put line 109.
-
-
-<6_applications/figures/BreakwaterStructureGPSError.png, id=1866, 948.54375pt x
- 779.91376pt>
-File: 6_applications/figures/BreakwaterStructureGPSError.png Graphic file (type
- png)
- <use 6_applications/figures/BreakwaterStructureGPSError.png>
-Package pdftex.def Info: 6_applications/figures/BreakwaterStructureGPSError.png
- used on input line 127.
-(pdftex.def)             Requested size: 198.0011pt x 162.79898pt.
-
-[58 <./6_applications/figures/BreakwaterStructureSatelliteView.png> <./6_applic
-ations/figures/BreakwaterStructureInternal.jpg> <./6_applications/figures/Break
-waterStructureUWsim.png>]
-<6_applications/figures/S2PayloadEchosMicron.png, id=1883, 2092.2165pt x 933.00
-57pt>
-File: 6_applications/figures/S2PayloadEchosMicron.png Graphic file (type png)
- <use 6_applications/figures/S2PayloadEchosMicron.png>
-Package pdftex.def Info: 6_applications/figures/S2PayloadEchosMicron.png used o
-n input line 177.
-(pdftex.def)             Requested size: 233.9978pt x 104.33932pt.
-
-<6_applications/figures/S2PayloadDirEchos.png, id=1884, 2444.8941pt x 1321.8183
-pt>
-File: 6_applications/figures/S2PayloadDirEchos.png Graphic file (type png)
- <use 6_applications/figures/S2PayloadDirEchos.png>
-Package pdftex.def Info: 6_applications/figures/S2PayloadDirEchos.png used on i
-nput line 180.
-(pdftex.def)             Requested size: 233.9978pt x 126.50183pt.
-
-
-LaTeX Warning: Reference `ch:plann_online' on page 59 undefined on input line 2
-00.
-
-
-LaTeX Warning: Reference `fig:RealWOnReplannRRTStar' on page 59 undefined on in
-put line 200.
-
-[59 <./6_applications/figures/BreakwaterStructureGPSError.png>] [60 <./6_applic
-ations/figures/S2PayloadEchosMicron.png> <./6_applications/figures/S2PayloadDir
-Echos.png>]
-<6_applications/figures/S2BetweenConcrBlocksAutonomous.jpg, id=1914, 803.0pt x 
-463.7325pt>
-File: 6_applications/figures/S2BetweenConcrBlocksAutonomous.jpg Graphic file (t
-ype jpg)
- <use 6_applications/figures/S2BetweenConcrBlocksAutonomous.jpg>
-Package pdftex.def Info: 6_applications/figures/S2BetweenConcrBlocksAutonomous.
-jpg used on input line 242.
-(pdftex.def)             Requested size: 216.0022pt x 124.74243pt.
-
-<6_applications/figures/S2BlocksMultS2GQ1.png, id=1915, 1311.90125pt x 833.1125
-pt>
-File: 6_applications/figures/S2BlocksMultS2GQ1.png Graphic file (type png)
- <use 6_applications/figures/S2BlocksMultS2GQ1.png>
-Package pdftex.def Info: 6_applications/figures/S2BlocksMultS2GQ1.png used on i
-nput line 245.
-(pdftex.def)             Requested size: 161.9989pt x 102.86757pt.
-
-<6_applications/figures/S2BlocksMultS2GQ2.png, id=1916, 1311.90125pt x 833.1125
-pt>
-File: 6_applications/figures/S2BlocksMultS2GQ2.png Graphic file (type png)
- <use 6_applications/figures/S2BlocksMultS2GQ2.png>
-Package pdftex.def Info: 6_applications/figures/S2BlocksMultS2GQ2.png used on i
-nput line 248.
-(pdftex.def)             Requested size: 161.9989pt x 102.86757pt.
-
-<6_applications/figures/S2BlocksMultS2GQ3.png, id=1917, 1311.90125pt x 833.1125
-pt>
-File: 6_applications/figures/S2BlocksMultS2GQ3.png Graphic file (type png)
- <use 6_applications/figures/S2BlocksMultS2GQ3.png>
-Package pdftex.def Info: 6_applications/figures/S2BlocksMultS2GQ3.png used on i
-nput line 251.
-(pdftex.def)             Requested size: 161.9989pt x 102.86757pt.
-
-<6_applications/figures/S2BlocksMultS2GQ3_.png, id=1918, 1311.90125pt x 833.112
-5pt>
-File: 6_applications/figures/S2BlocksMultS2GQ3_.png Graphic file (type png)
- <use 6_applications/figures/S2BlocksMultS2GQ3_.png>
-Package pdftex.def Info: 6_applications/figures/S2BlocksMultS2GQ3_.png used on 
-input line 254.
-(pdftex.def)             Requested size: 161.9989pt x 102.86757pt.
-
-<6_applications/figures/S2BlocksMultS2GGoogleMaps.png, id=1919, 623.32875pt x 3
-95.97937pt>
-File: 6_applications/figures/S2BlocksMultS2GGoogleMaps.png Graphic file (type p
-ng)
- <use 6_applications/figures/S2BlocksMultS2GGoogleMaps.png>
-Package pdftex.def Info: 6_applications/figures/S2BlocksMultS2GGoogleMaps.png u
-sed on input line 257.
-(pdftex.def)             Requested size: 161.9989pt x 102.90991pt.
-
-
-LaTeX Warning: Citation 'Hernandez2016' on page 61 undefined on input line 293.
-
-
-
-LaTeX Warning: Citation 'Hernandez2016a' on page 61 undefined on input line 293
-.
-
-
-<6_applications/figures/Breakwater3DReconstruction2.png, id=1940, 826.58812pt x
- 704.6325pt>
-File: 6_applications/figures/Breakwater3DReconstruction2.png Graphic file (type
- png)
- <use 6_applications/figures/Breakwater3DReconstruction2.png>
-Package pdftex.def Info: 6_applications/figures/Breakwater3DReconstruction2.png
- used on input line 299.
-(pdftex.def)             Requested size: 306.0022pt x 260.86047pt.
-
-<6_applications/figures/Breakwater3DReconstruction3.png, id=1941, 494.59781pt x
- 585.68813pt>
-File: 6_applications/figures/Breakwater3DReconstruction3.png Graphic file (type
- png)
- <use 6_applications/figures/Breakwater3DReconstruction3.png>
-Package pdftex.def Info: 6_applications/figures/Breakwater3DReconstruction3.png
- used on input line 302.
-(pdftex.def)             Requested size: 143.9978pt x 170.51547pt.
-
-<6_applications/figures/Breakwater3DReconstruction4.png, id=1942, 619.56468pt x
- 733.99219pt>
-File: 6_applications/figures/Breakwater3DReconstruction4.png Graphic file (type
- png)
- <use 6_applications/figures/Breakwater3DReconstruction4.png>
-Package pdftex.def Info: 6_applications/figures/Breakwater3DReconstruction4.png
- used on input line 305.
-(pdftex.def)             Requested size: 143.9978pt x 170.58421pt.
-
-<6_applications/figures/RockyFormationCanyonSatelliteView.jpg, id=1952, 559.088
-75pt x 355.3275pt>
-File: 6_applications/figures/RockyFormationCanyonSatelliteView.jpg Graphic file
- (type jpg)
-
-<use 6_applications/figures/RockyFormationCanyonSatelliteView.jpg>
-Package pdftex.def Info: 6_applications/figures/RockyFormationCanyonSatelliteVi
-ew.jpg used on input line 338.
-(pdftex.def)             Requested size: 216.0022pt x 137.28133pt.
-
-Underfull \hbox (badness 2582) in paragraph at lines 338--338
-[][]|\T1/pplj/m/n/9 Satel-lite view. Im-age credit: Map data \TS1/pplj/m/n/9 ©\
-T1/pplj/m/n/9 2017
- []
-
-
-<6_applications/figures/RockyFormationCanyonInner.jpg, id=1953, 2007.5pt x 1129
-.21875pt>
-File: 6_applications/figures/RockyFormationCanyonInner.jpg Graphic file (type j
-pg)
- <use 6_applications/figures/RockyFormationCanyonInner.jpg>
-Package pdftex.def Info: 6_applications/figures/RockyFormationCanyonInner.jpg u
-sed on input line 342.
-(pdftex.def)             Requested size: 161.9989pt x 91.11472pt.
-
-<6_applications/figures/RockyFormationCanyonOuter.jpg, id=1954, 1766.6pt x 993.
-7125pt>
-File: 6_applications/figures/RockyFormationCanyonOuter.jpg Graphic file (type j
-pg)
- <use 6_applications/figures/RockyFormationCanyonOuter.jpg>
-Package pdftex.def Info: 6_applications/figures/RockyFormationCanyonOuter.jpg u
-sed on input line 345.
-(pdftex.def)             Requested size: 161.9989pt x 91.11333pt.
-
-<6_applications/figures/S2PayloadProfilerCameras.png, id=1966, 270.47047pt x 19
-8.29082pt>
-File: 6_applications/figures/S2PayloadProfilerCameras.png Graphic file (type pn
-g)
- <use 6_applications/figures/S2PayloadProfilerCameras.png>
-Package pdftex.def Info: 6_applications/figures/S2PayloadProfilerCameras.png us
-ed on input line 374.
-(pdftex.def)             Requested size: 169.20044pt x 124.04642pt.
-
-<6_applications/figures/S2PayloadProfCamsReal.jpg, id=1967, 989.49675pt x 732.3
-36pt>
-File: 6_applications/figures/S2PayloadProfCamsReal.jpg Graphic file (type jpg)
- <use 6_applications/figures/S2PayloadProfCamsReal.jpg>
-Package pdftex.def Info: 6_applications/figures/S2PayloadProfCamsReal.jpg used 
-on input line 377.
-(pdftex.def)             Requested size: 169.20044pt x 125.22182pt.
- [61] [62 <./6_applications/figures/S2BetweenConcrBlocksAutonomous.jpg> <./6_ap
-plications/figures/S2BlocksMultS2GQ1.png> <./6_applications/figures/S2BlocksMul
-tS2GQ2.png> <./6_applications/figures/S2BlocksMultS2GQ3.png> <./6_applications/
-figures/S2BlocksMultS2GQ3_.png> <./6_applications/figures/S2BlocksMultS2GGoogle
-Maps.png>] [63 <./6_applications/figures/Breakwater3DReconstruction2.png> <./6_
-applications/figures/Breakwater3DReconstruction3.png> <./6_applications/figures
-/Breakwater3DReconstruction4.png>] [64 <./6_applications/figures/RockyFormation
-CanyonSatelliteView.jpg> <./6_applications/figures/RockyFormationCanyonInner.jp
-g> <./6_applications/figures/RockyFormationCanyonOuter.jpg> <./6_applications/f
-igures/S2PayloadProfilerCameras.png> <./6_applications/figures/S2PayloadProfCam
-sReal.jpg>]
-Package acronym Info: Label `acro:DVL' newly defined as it shall be overridden
-although it is yet undefined on input line 411.
-
-<6_applications/figures/S2CanyonMultS2GQ1_1.png, id=2012, 1455.4375pt x 983.675
-pt>
-File: 6_applications/figures/S2CanyonMultS2GQ1_1.png Graphic file (type png)
- <use 6_applications/figures/S2CanyonMultS2GQ1_1.png>
-Package pdftex.def Info: 6_applications/figures/S2CanyonMultS2GQ1_1.png used on
- input line 423.
-(pdftex.def)             Requested size: 161.9989pt x 109.4804pt.
-
-<6_applications/figures/S2CanyonMultS2GQ1_2.png, id=2013, 1455.4375pt x 983.675
-pt>
-File: 6_applications/figures/S2CanyonMultS2GQ1_2.png Graphic file (type png)
- <use 6_applications/figures/S2CanyonMultS2GQ1_2.png>
-Package pdftex.def Info: 6_applications/figures/S2CanyonMultS2GQ1_2.png used on
- input line 426.
-(pdftex.def)             Requested size: 161.9989pt x 109.4804pt.
-
-<6_applications/figures/S2CanyonMultS2GQ2.png, id=2014, 1455.4375pt x 983.675pt
->
-File: 6_applications/figures/S2CanyonMultS2GQ2.png Graphic file (type png)
- <use 6_applications/figures/S2CanyonMultS2GQ2.png>
-Package pdftex.def Info: 6_applications/figures/S2CanyonMultS2GQ2.png used on i
-nput line 429.
-(pdftex.def)             Requested size: 161.9989pt x 109.4804pt.
-
-<6_applications/figures/S2CanyonMultS2GQ3.png, id=2015, 1455.4375pt x 983.675pt
->
-File: 6_applications/figures/S2CanyonMultS2GQ3.png Graphic file (type png)
- <use 6_applications/figures/S2CanyonMultS2GQ3.png>
-Package pdftex.def Info: 6_applications/figures/S2CanyonMultS2GQ3.png used on i
-nput line 432.
-(pdftex.def)             Requested size: 161.9989pt x 109.4804pt.
-
-
-LaTeX Warning: Citation 'Hernandez2016' on page 65 undefined on input line 457.
-
-
-
-LaTeX Warning: Citation 'Hernandez2016a' on page 65 undefined on input line 457
-.
-
-[65 <./6_applications/figures/S2CanyonMultS2GQ1_1.png> <./6_applications/figure
-s/S2CanyonMultS2GQ1_2.png> <./6_applications/figures/S2CanyonMultS2GQ2.png> <./
-6_applications/figures/S2CanyonMultS2GQ3.png>]
-<6_applications/figures/3D_topdown_marked.png, id=2043, 1088.6271pt x 600.8046p
-t>
-File: 6_applications/figures/3D_topdown_marked.png Graphic file (type png)
- <use 6_applications/figures/3D_topdown_marked.png>
-Package pdftex.def Info: 6_applications/figures/3D_topdown_marked.png used on i
-nput line 463.
-(pdftex.def)             Requested size: 323.9978pt x 178.81262pt.
-
-<6_applications/figures/3D_canyon.png, id=2044, 1185.67969pt x 736.25063pt>
-File: 6_applications/figures/3D_canyon.png Graphic file (type png)
-
-<use 6_applications/figures/3D_canyon.png>
-Package pdftex.def Info: 6_applications/figures/3D_canyon.png used on input lin
-e 466.
-(pdftex.def)             Requested size: 154.79736pt x 96.12036pt.
-
-<6_applications/figures/3D_outside.png, id=2045, 1163.0953pt x 661.72218pt>
-File: 6_applications/figures/3D_outside.png Graphic file (type png)
-
-<use 6_applications/figures/3D_outside.png>
-Package pdftex.def Info: 6_applications/figures/3D_outside.png used on input li
-ne 469.
-(pdftex.def)             Requested size: 154.79736pt x 88.0665pt.
-
-<6_applications/figures/camType_tex_zoom.png, id=2046, 853.68938pt x 603.75563p
-t>
-File: 6_applications/figures/camType_tex_zoom.png Graphic file (type png)
- <use 6_applications/figures/camType_tex_zoom.png>
-Package pdftex.def Info: 6_applications/figures/camType_tex_zoom.png used on in
-put line 472.
-(pdftex.def)             Requested size: 180.0pt x 127.2991pt.
- [66 <./6_applications/figures/3D_topdown_marked.png> <./6_applications/figures
-/3D_canyon.png> <./6_applications/figures/3D_outside.png> <./6_applications/fig
-ures/camType_tex_zoom.png>]
-<6_applications/figures/SPARUS-Real-Canyon-Scenario5.png, id=2068, 559.08875pt 
-x 399.4925pt>
-File: 6_applications/figures/SPARUS-Real-Canyon-Scenario5.png Graphic file (typ
-e png)
- <use 6_applications/figures/SPARUS-Real-Canyon-Scenario5.png>
-Package pdftex.def Info: 6_applications/figures/SPARUS-Real-Canyon-Scenario5.pn
-g used on input line 499.
-(pdftex.def)             Requested size: 216.0022pt x 154.34456pt.
-
-
-LaTeX Warning: Reference `sec:MappingModule' on page 67 undefined on input line
- 517.
-
-
-LaTeX Warning: Citation 'Mallios2015' on page 67 undefined on input line 535.
-
-Package acronym Info: Label `acro:SLAM' newly defined as it shall be overridden
-
-although it is yet undefined on input line 537.
-
-LaTeX Warning: Citation 'Mallios2015' on page 67 undefined on input line 541.
-
-
-LaTeX Warning: Citation 'Mallios2017' on page 67 undefined on input line 541.
-
-Package acronym Info: Label `acro:SDNC' newly defined as it shall be overridden
-
-although it is yet undefined on input line 542.
-
-LaTeX Warning: Citation 'Campos2013' on page 67 undefined on input line 542.
-
-[67 <./6_applications/figures/SPARUS-Real-Canyon-Scenario5.png>]
-<6_applications/figures/CavesSatellite.png, id=2086, 399.4925pt x 287.0725pt>
-File: 6_applications/figures/CavesSatellite.png Graphic file (type png)
-
-<use 6_applications/figures/CavesSatellite.png>
-Package pdftex.def Info: 6_applications/figures/CavesSatellite.png used on inpu
-t line 547.
-(pdftex.def)             Requested size: 251.9989pt x 181.0844pt.
-
-
-LaTeX Warning: Citation 'Mallios2015' on page 68 undefined on input line 554.
-
-
-LaTeX Warning: Citation 'Mallios2017' on page 68 undefined on input line 554.
-
-
-LaTeX Warning: Citation 'Mallios2015' on page 68 undefined on input line 554.
-
-
-LaTeX Warning: Citation 'Mallios2017' on page 68 undefined on input line 554.
-
-<6_applications/figures/Caves3DMesh.jpg, id=2089, 2370.8575pt x 1297.84875pt>
-File: 6_applications/figures/Caves3DMesh.jpg Graphic file (type jpg)
-
-<use 6_applications/figures/Caves3DMesh.jpg>
-Package pdftex.def Info: 6_applications/figures/Caves3DMesh.jpg used on input l
-ine 573.
-(pdftex.def)             Requested size: 341.9989pt x 187.20297pt.
-
-
-LaTeX Warning: Citation 'Campos2013' on page 68 undefined on input line 579.
-
-
-LaTeX Warning: Citation 'Mallios2015' on page 68 undefined on input line 579.
-
-
-LaTeX Warning: Citation 'Campos2013' on page 68 undefined on input line 579.
-
-
-LaTeX Warning: Citation 'Mallios2015' on page 68 undefined on input line 579.
-
-<6_applications/figures/CavesUWSim.png, id=2095, 803.0pt x 602.25pt>
-File: 6_applications/figures/CavesUWSim.png Graphic file (type png)
-
-<use 6_applications/figures/CavesUWSim.png>
-Package pdftex.def Info: 6_applications/figures/CavesUWSim.png used on input li
-ne 595.
-(pdftex.def)             Requested size: 288.0011pt x 216.00114pt.
- [68 <./6_applications/figures/CavesSatellite.png>] [69 <./6_applications/figur
-es/Caves3DMesh.jpg> <./6_applications/figures/CavesUWSim.png>]
-<6_applications/figures/CavesMultS2G_Q2_RViz.png, id=2117, 1455.4375pt x 983.67
-5pt>
-File: 6_applications/figures/CavesMultS2G_Q2_RViz.png Graphic file (type png)
- <use 6_applications/figures/CavesMultS2G_Q2_RViz.png>
-Package pdftex.def Info: 6_applications/figures/CavesMultS2G_Q2_RViz.png used o
-n input line 621.
-(pdftex.def)             Requested size: 251.9989pt x 170.31453pt.
-
-<6_applications/figures/CavesMultS2G_Q2_UWSim.png, id=2118, 803.0pt x 602.25pt>
-File: 6_applications/figures/CavesMultS2G_Q2_UWSim.png Graphic file (type png)
-<use 6_applications/figures/CavesMultS2G_Q2_UWSim.png>
-Package pdftex.def Info: 6_applications/figures/CavesMultS2G_Q2_UWSim.png used 
-on input line 624.
-(pdftex.def)             Requested size: 251.9989pt x 189.00215pt.
- [70 <./6_applications/figures/CavesMultS2G_Q2_RViz.png> <./6_applications/figu
-res/CavesMultS2G_Q2_UWSim.png>]
-<6_applications/figures/CavesMultS2G_Q3_RViz.png, id=2132, 1455.4375pt x 983.67
-5pt>
-File: 6_applications/figures/CavesMultS2G_Q3_RViz.png Graphic file (type png)
- <use 6_applications/figures/CavesMultS2G_Q3_RViz.png>
-Package pdftex.def Info: 6_applications/figures/CavesMultS2G_Q3_RViz.png used o
-n input line 651.
-(pdftex.def)             Requested size: 251.9989pt x 170.31453pt.
-
-<6_applications/figures/CavesMultS2G_Q3_UWSim.png, id=2133, 803.0pt x 602.25pt>
-File: 6_applications/figures/CavesMultS2G_Q3_UWSim.png Graphic file (type png)
-<use 6_applications/figures/CavesMultS2G_Q3_UWSim.png>
-Package pdftex.def Info: 6_applications/figures/CavesMultS2G_Q3_UWSim.png used 
-on input line 654.
-(pdftex.def)             Requested size: 251.9989pt x 189.00215pt.
- [71 <./6_applications/figures/CavesMultS2G_Q3_RViz.png> <./6_applications/figu
-res/CavesMultS2G_Q3_UWSim.png>]
-<6_applications/figures/CavesMultS2G_Q4_RViz.png, id=2149, 1455.4375pt x 983.67
-5pt>
-File: 6_applications/figures/CavesMultS2G_Q4_RViz.png Graphic file (type png)
- <use 6_applications/figures/CavesMultS2G_Q4_RViz.png>
-Package pdftex.def Info: 6_applications/figures/CavesMultS2G_Q4_RViz.png used o
-n input line 681.
-(pdftex.def)             Requested size: 251.9989pt x 170.31453pt.
-
-<6_applications/figures/CavesMultS2G_Q5_RViz.png, id=2150, 1455.4375pt x 983.67
-5pt>
-File: 6_applications/figures/CavesMultS2G_Q5_RViz.png Graphic file (type png)
- <use 6_applications/figures/CavesMultS2G_Q5_RViz.png>
-Package pdftex.def Info: 6_applications/figures/CavesMultS2G_Q5_RViz.png used o
-n input line 684.
-(pdftex.def)             Requested size: 251.9989pt x 170.31453pt.
-
-<6_applications/figures/CavesMultS2G_TopMap.png, id=2156, 1455.4375pt x 983.675
-pt>
-File: 6_applications/figures/CavesMultS2G_TopMap.png Graphic file (type png)
- <use 6_applications/figures/CavesMultS2G_TopMap.png>
-Package pdftex.def Info: 6_applications/figures/CavesMultS2G_TopMap.png used on
- input line 726.
-(pdftex.def)             Requested size: 169.20044pt x 114.34352pt.
-
-<6_applications/figures/CavesMultS2G_TopTraj.png, id=2157, 1455.4375pt x 983.67
-5pt>
-File: 6_applications/figures/CavesMultS2G_TopTraj.png Graphic file (type png)
- <use 6_applications/figures/CavesMultS2G_TopTraj.png>
-Package pdftex.def Info: 6_applications/figures/CavesMultS2G_TopTraj.png used o
-n input line 729.
-(pdftex.def)             Requested size: 169.20044pt x 114.34352pt.
-
-<6_applications/figures/CavesMultS2G_FrontMap.png, id=2158, 1455.4375pt x 983.6
-75pt>
-File: 6_applications/figures/CavesMultS2G_FrontMap.png Graphic file (type png)
- <use 6_applications/figures/CavesMultS2G_FrontMap.png>
-Package pdftex.def Info: 6_applications/figures/CavesMultS2G_FrontMap.png used 
-on input line 732.
-(pdftex.def)             Requested size: 169.20044pt x 114.34352pt.
-
-<6_applications/figures/CavesMultS2G_FrontTraj.png, id=2159, 1455.4375pt x 983.
-675pt>
-File: 6_applications/figures/CavesMultS2G_FrontTraj.png Graphic file (type png)
-
- <use 6_applications/figures/CavesMultS2G_FrontTraj.png>
-Package pdftex.def Info: 6_applications/figures/CavesMultS2G_FrontTraj.png used
- on input line 735.
-(pdftex.def)             Requested size: 169.20044pt x 114.34352pt.
-
-<6_applications/figures/CavesMultS2G_BackMap.png, id=2160, 1455.4375pt x 983.67
-5pt>
-File: 6_applications/figures/CavesMultS2G_BackMap.png Graphic file (type png)
- <use 6_applications/figures/CavesMultS2G_BackMap.png>
-Package pdftex.def Info: 6_applications/figures/CavesMultS2G_BackMap.png used o
-n input line 738.
-(pdftex.def)             Requested size: 169.20044pt x 114.34352pt.
-
-<6_applications/figures/CavesMultS2G_BackTraj.png, id=2161, 1455.4375pt x 983.6
-75pt>
-File: 6_applications/figures/CavesMultS2G_BackTraj.png Graphic file (type png)
- <use 6_applications/figures/CavesMultS2G_BackTraj.png>
-Package pdftex.def Info: 6_applications/figures/CavesMultS2G_BackTraj.png used 
-on input line 741.
-(pdftex.def)             Requested size: 169.20044pt x 114.34352pt.
- [72 <./6_applications/figures/CavesMultS2G_Q4_RViz.png> <./6_applications/figu
-res/CavesMultS2G_Q5_RViz.png>] [73 <./6_applications/figures/CavesMultS2G_TopMa
-p.png> <./6_applications/figures/CavesMultS2G_TopTraj.png> <./6_applications/fi
-gures/CavesMultS2G_FrontMap.png> <./6_applications/figures/CavesMultS2G_FrontTr
-aj.png> <./6_applications/figures/CavesMultS2G_BackMap.png> <./6_applications/f
-igures/CavesMultS2G_BackTraj.png>]
-
-LaTeX Warning: Citation 'Galceran2012' on page 74 undefined on input line 781.
-
-
-LaTeX Warning: Citation 'Gracias2013' on page 74 undefined on input line 781.
-
-
-LaTeX Warning: Citation 'Escartin2013' on page 74 undefined on input line 782.
-
-Package acronym Info: Label `acro:ROS' newly defined as it shall be overridden
-although it is yet undefined on input line 812.
-[74]
-
-LaTeX Warning: Reference `ch:plann_online' on page 75 undefined on input line 8
-29.
-
-<6_applications/figures/BackseatDiagram.png, id=2203, 1541.76pt x 1409.265pt>
-File: 6_applications/figures/BackseatDiagram.png Graphic file (type png)
-
-<use 6_applications/figures/BackseatDiagram.png>
-Package pdftex.def Info: 6_applications/figures/BackseatDiagram.png used on inp
-ut line 838.
-(pdftex.def)             Requested size: 251.9989pt x 230.32532pt.
-
-
-LaTeX Warning: Reference `ch:plann_online' on page 75 undefined on input line 8
-51.
-
-
-<6_applications/figures/AsterXDeployment1.jpg, id=2210, 4175.6pt x 2348.775pt>
-File: 6_applications/figures/AsterXDeployment1.jpg Graphic file (type jpg)
-
-<use 6_applications/figures/AsterXDeployment1.jpg>
-Package pdftex.def Info: 6_applications/figures/AsterXDeployment1.jpg used on i
-nput line 861.
-(pdftex.def)             Requested size: 161.9989pt x 91.10368pt.
-
-<6_applications/figures/AsterXDeployment2.jpg, id=2211, 4175.6pt x 2348.775pt>
-File: 6_applications/figures/AsterXDeployment2.jpg Graphic file (type jpg)
-
-<use 6_applications/figures/AsterXDeployment2.jpg>
-Package pdftex.def Info: 6_applications/figures/AsterXDeployment2.jpg used on i
-nput line 864.
-(pdftex.def)             Requested size: 161.9989pt x 91.10368pt.
-
-<6_applications/figures/AsterXDeployment3.jpg, id=2212, 96.36pt x 69.861pt>
-File: 6_applications/figures/AsterXDeployment3.jpg Graphic file (type jpg)
-
-<use 6_applications/figures/AsterXDeployment3.jpg>
-Package pdftex.def Info: 6_applications/figures/AsterXDeployment3.jpg used on i
-nput line 867.
-(pdftex.def)             Requested size: 161.9989pt x 117.44879pt.
- [75 <./6_applications/figures/BackseatDiagram.png>]
-<6_applications/figures/AsterXMission1_.png, id=2222, 1095.3422pt x 742.27313pt
->
-File: 6_applications/figures/AsterXMission1_.png Graphic file (type png)
- <use 6_applications/figures/AsterXMission1_.png>
-Package pdftex.def Info: 6_applications/figures/AsterXMission1_.png used on inp
-ut line 892.
-(pdftex.def)             Requested size: 251.9989pt x 170.76453pt.
-
-<6_applications/figures/AsterXMission2_.png, id=2227, 1095.3422pt x 742.27313pt
->
-File: 6_applications/figures/AsterXMission2_.png Graphic file (type png)
- <use 6_applications/figures/AsterXMission2_.png>
-Package pdftex.def Info: 6_applications/figures/AsterXMission2_.png used on inp
-ut line 917.
-(pdftex.def)             Requested size: 251.9989pt x 170.76453pt.
- [76 <./6_applications/figures/AsterXDeployment1.jpg> <./6_applications/figures
-/AsterXDeployment2.jpg> <./6_applications/figures/AsterXDeployment3.jpg>] [77 <
-./6_applications/figures/AsterXMission1_.png> <./6_applications/figures/AsterXM
-ission2_.png>]
-<6_applications/figures/AsterXMission3_.png, id=2249, 1455.4375pt x 983.675pt>
-File: 6_applications/figures/AsterXMission3_.png Graphic file (type png)
-
-<use 6_applications/figures/AsterXMission3_.png>
-Package pdftex.def Info: 6_applications/figures/AsterXMission3_.png used on inp
-ut line 940.
-(pdftex.def)             Requested size: 251.9989pt x 170.31453pt.
-
-<6_applications/figures/AsterXMission4_.png, id=2250, 1095.3422pt x 742.27313pt
->
-File: 6_applications/figures/AsterXMission4_.png Graphic file (type png)
- <use 6_applications/figures/AsterXMission4_.png>
-Package pdftex.def Info: 6_applications/figures/AsterXMission4_.png used on inp
-ut line 949.
-(pdftex.def)             Requested size: 251.9989pt x 170.76453pt.
-) [78 <./6_applications/figures/AsterXMission3_.png> <./6_applications/figures/
-AsterXMission4_.png>]
-\openout2 = `7_conclusions/conclusions.aux'.
-
-
-(./7_conclusions/conclusions.tex
-chapter 6.
-
-Overfull \hbox (0.24074pt too wide) in paragraph at lines 48--58
-\T1/pplj/m/n/10.95 variable-depth paths for a torpedo-shaped [][]. This for-mu-
-la-tion ex-tended
- []
-
-
-LaTeX Warning: Reference `ch:plann_online' on page 79 undefined on input line 6
-2.
-
-[79
-
-
-
-
-
-
-] [80]
-
-LaTeX Warning: Reference `ch:plann_online' on page 81 undefined on input line 1
-51.
-
-
-Overfull \hbox (3.73813pt too wide) in paragraph at lines 156--167
-[]\T1/pplj/m/n/10.95 Although a si-mul-ta-ne-ous map-
- []
-
-[81] [82]) [83] [84
 
 
 
@@ -4589,19 +2256,28 @@ Overfull \hbox (3.73813pt too wide) in paragraph at lines 156--167
 ]
 \openout2 = `A_experimental_platform/experimental_platform.aux'.
 
- (./A_experimental_platform/experimental_platform.tex
+
+(./A_experimental_platform/experimental_platform.tex
 chapter A.
+Package acronym Info: Label `acro:AUV' overridden on input line 20.
 Package acronym Info: Label `acro:CIRS' newly defined as it shall be overridden
 
 although it is yet undefined on input line 29.
 Package acronym Info: Label `acro:ViCOROB' newly defined as it shall be overrid
 den
 although it is yet undefined on input line 30.
+Package acronym Info: Label `acro:DOF' newly defined as it shall be overridden
+although it is yet undefined on input line 34.
+Package acronym Info: Label `acro:DVL' newly defined as it shall be overridden
+although it is yet undefined on input line 35.
 Package acronym Info: Label `acro:IMU' newly defined as it shall be overridden
 although it is yet undefined on input line 36.
+Package acronym Info: Label `acro:USBL' newly defined as it shall be overridden
 
-<A_experimental_platform/figures/Sparus2FullReal.png, id=2363, 2601.72pt x 1734
-.48pt>
+although it is yet undefined on input line 40.
+
+<A_experimental_platform/figures/Sparus2FullReal.png, id=214, 2601.72pt x 1734.
+48pt>
 File: A_experimental_platform/figures/Sparus2FullReal.png Graphic file (type pn
 g)
  <use A_experimental_platform/figures/Sparus2FullReal.png>
@@ -4609,8 +2285,8 @@ Package pdftex.def Info: A_experimental_platform/figures/Sparus2FullReal.png us
 ed on input line 55.
 (pdftex.def)             Requested size: 233.9978pt x 155.9906pt.
 
-<A_experimental_platform/figures/Sparus2FullTop.png, id=2366, 607.068pt x 173.4
-48pt>
+<A_experimental_platform/figures/Sparus2FullTop.png, id=217, 607.068pt x 173.44
+8pt>
 File: A_experimental_platform/figures/Sparus2FullTop.png Graphic file (type png
 )
  <use A_experimental_platform/figures/Sparus2FullTop.png>
@@ -4618,8 +2294,8 @@ Package pdftex.def Info: A_experimental_platform/figures/Sparus2FullTop.png use
 d on input line 58.
 (pdftex.def)             Requested size: 233.9978pt x 66.85576pt.
 
-<A_experimental_platform/figures/Sparus2FullBottom.png, id=2367, 606.1044pt x 1
-72.9662pt>
+<A_experimental_platform/figures/Sparus2FullBottom.png, id=219, 606.1044pt x 17
+2.9662pt>
 File: A_experimental_platform/figures/Sparus2FullBottom.png Graphic file (type 
 png)
  <use A_experimental_platform/figures/Sparus2FullBottom.png>
@@ -4627,8 +2303,8 @@ Package pdftex.def Info: A_experimental_platform/figures/Sparus2FullBottom.png
 used on input line 61.
 (pdftex.def)             Requested size: 233.9978pt x 66.77562pt.
 
-<A_experimental_platform/figures/Sparus2FullLateral.png, id=2368, 672.111pt x 2
-05.7286pt>
+<A_experimental_platform/figures/Sparus2FullLateral.png, id=220, 672.111pt x 20
+5.7286pt>
 File: A_experimental_platform/figures/Sparus2FullLateral.png Graphic file (type
  png)
  <use A_experimental_platform/figures/Sparus2FullLateral.png>
@@ -4636,8 +2312,8 @@ Package pdftex.def Info: A_experimental_platform/figures/Sparus2FullLateral.png
  used on input line 64.
 (pdftex.def)             Requested size: 233.9978pt x 71.62624pt.
 
-<A_experimental_platform/figures/Sparus2Full3D.png, id=2369, 591.6504pt x 239.9
-364pt>
+<A_experimental_platform/figures/Sparus2Full3D.png, id=221, 591.6504pt x 239.93
+64pt>
 File: A_experimental_platform/figures/Sparus2Full3D.png Graphic file (type png)
 
  <use A_experimental_platform/figures/Sparus2Full3D.png>
@@ -4649,16 +2325,23 @@ n
 although it is yet undefined on input line 80.
 
 
-LaTeX Warning: Citation 'Palomeras2012' on page 85 undefined on input line 80.
+LaTeX Warning: Citation 'Palomeras2012' on page 2 undefined on input line 80.
 
+Package acronym Info: Label `acro:ROS' newly defined as it shall be overridden
+although it is yet undefined on input line 81.
+Package acronym Info: Label `acro:UWSim' newly defined as it shall be overridde
+n
+although it is yet undefined on input line 82.
 
-LaTeX Warning: Citation 'Prats2012' on page 85 undefined on input line 82.
+LaTeX Warning: Citation 'Prats2012' on page 2 undefined on input line 82.
 
+Package acronym Info: Label `acro:3D' newly defined as it shall be overridden
+although it is yet undefined on input line 83.
 Package acronym Info: Label `acro:OMPL' newly defined as it shall be overridden
 
 although it is yet undefined on input line 85.
 
-LaTeX Warning: Citation 'Sucan2012' on page 85 undefined on input line 86.
+LaTeX Warning: Citation 'Sucan2012' on page 2 undefined on input line 86.
 
 
 Overfull \hbox (48.42747pt too wide) in paragraph at lines 79--87
@@ -4666,18 +2349,21 @@ Overfull \hbox (48.42747pt too wide) in paragraph at lines 79--87
 -ton-omy ([])[] [[]],
  []
 
+Package acronym Info: Label `acro:Ifremer' newly defined as it shall be overrid
+den
+although it is yet undefined on input line 97.
 Package acronym Info: Label `acro:ISE' newly defined as it shall be overridden
 although it is yet undefined on input line 98.
-[85
+[2
 
 
 
-] [86 <./A_experimental_platform/figures/Sparus2FullReal.png> <./A_experimental
-_platform/figures/Sparus2FullTop.png> <./A_experimental_platform/figures/Sparus
-2FullBottom.png> <./A_experimental_platform/figures/Sparus2FullLateral.png> <./
-A_experimental_platform/figures/Sparus2Full3D.png>]
-<A_experimental_platform/figures/AsterXFullReal.png, id=2409, 434.3427pt x 289.
-8027pt>
+] [3 <./A_experimental_platform/figures/Sparus2FullReal.png> <./A_experimental_
+platform/figures/Sparus2FullTop.png> <./A_experimental_platform/figures/Sparus2
+FullBottom.png> <./A_experimental_platform/figures/Sparus2FullLateral.png> <./A
+_experimental_platform/figures/Sparus2Full3D.png>]
+<A_experimental_platform/figures/AsterXFullReal.png, id=271, 434.3427pt x 289.8
+027pt>
 File: A_experimental_platform/figures/AsterXFullReal.png Graphic file (type png
 )
  <use A_experimental_platform/figures/AsterXFullReal.png>
@@ -4685,8 +2371,8 @@ Package pdftex.def Info: A_experimental_platform/figures/AsterXFullReal.png use
 d on input line 113.
 (pdftex.def)             Requested size: 233.9978pt x 156.13293pt.
 
-<A_experimental_platform/figures/AsterXFullLateral.png, id=2412, 455.301pt x 26
-4.0264pt>
+<A_experimental_platform/figures/AsterXFullLateral.png, id=274, 455.301pt x 264
+.0264pt>
 File: A_experimental_platform/figures/AsterXFullLateral.png Graphic file (type 
 png)
  <use A_experimental_platform/figures/AsterXFullLateral.png>
@@ -4695,10 +2381,10 @@ used on input line 119.
 (pdftex.def)             Requested size: 233.9978pt x 135.69109pt.
 Package acronym Info: Label `acro:ACE' newly defined as it shall be overridden
 although it is yet undefined on input line 130.
- [87 <./A_experimental_platform/figures/AsterXFullReal.png> <./A_experimental_p
-latform/figures/AsterXFullLateral.png>]
-<A_experimental_platform/figures/AsterX-Software-Architecture.png, id=2426, 178
-9.68625pt x 1013.7875pt>
+ [4 <./A_experimental_platform/figures/AsterXFullReal.png> <./A_experimental_pl
+atform/figures/AsterXFullLateral.png>]
+<A_experimental_platform/figures/AsterX-Software-Architecture.png, id=290, 1789
+.68625pt x 1013.7875pt>
 File: A_experimental_platform/figures/AsterX-Software-Architecture.png Graphic 
 file (type png)
 
@@ -4707,7 +2393,7 @@ Package pdftex.def Info: A_experimental_platform/figures/AsterX-Software-Archit
 ecture.png used on input line 144.
 (pdftex.def)             Requested size: 251.9989pt x 142.73367pt.
 )
-[88 <./A_experimental_platform/figures/AsterX-Software-Architecture.png>]
+[5 <./A_experimental_platform/figures/AsterX-Software-Architecture.png>]
 \openout2 = `0_frontmatter/Bibliography.aux'.
 
 
@@ -4721,23 +2407,13 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 158.
  (./main.aux (./0_frontmatter/Coverpage.aux) (./0_frontmatter/Titleback.aux)
 (./0_frontmatter/Titlepage.aux) (./0_frontmatter/Titleback.aux)
 (./0_frontmatter/Declaration.aux) (./0_frontmatter/Titleback.aux)
-(./0_frontmatter/Acknowledgments.aux) (./0_frontmatter/Titleback.aux)
-(./0_frontmatter/Publications.aux) (./0_frontmatter/Contents.aux)
-(./0_frontmatter/Titleback.aux) (./0_frontmatter/Abstract.aux)
-(./0_frontmatter/Titleback.aux) (./0_frontmatter/Resumen.aux)
-(./0_frontmatter/Titleback.aux) (./0_frontmatter/Resum.aux)
-(./0_frontmatter/Titleback.aux) (./1_introduction/introduction.aux)
-(./2_state_of_the_art/state_of_the_art.aux)
-(./3_motion_constraints/planning_motion_constraints.aux)
-(./4_planning_3D/planning_3D.aux) (./6_applications/applications.aux)
-(./7_conclusions/conclusions.aux)
+(./0_frontmatter/Titleback.aux) (./0_frontmatter/Publications.aux)
+(./0_frontmatter/Contents.aux) (./0_frontmatter/Titleback.aux)
+(./0_frontmatter/Abstract.aux) (./0_frontmatter/Titleback.aux)
+(./0_frontmatter/Resumen.aux) (./0_frontmatter/Titleback.aux)
+(./0_frontmatter/Resum.aux) (./0_frontmatter/Titleback.aux)
 (./A_experimental_platform/experimental_platform.aux)
-(./0_frontmatter/Bibliography.aux)
-
-Package mparhack Warning: Marginpars may have changed.
-(mparhack)                Rerun to get them right.
-
-)
+(./0_frontmatter/Bibliography.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 158.
 
 
@@ -4921,7 +2597,6 @@ gettitlestring.sty    2010/12/03 v1.4 Cleanup title references (HO)
   uzeuex.fd    2005/01/11 v4.0 (WaS)
  ot1zplm.fd    2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 0_frontmatter/Titleback.tex
-0_frontmatter/Acknowledgments.tex
 0_frontmatter/Titleback.tex
 0_frontmatter/Publications.tex
 0_frontmatter/Contents.tex
@@ -4934,137 +2609,6 @@ gettitlestring.sty    2010/12/03 v1.4 Cleanup title references (HO)
 0_frontmatter/Resum.tex
  ts1pplj.fd    2004/09/06 font definitions for TS1/pplj.
 0_frontmatter/Titleback.tex
-1_introduction/introduction.tex
-1_introduction/figures/Victor6000-ROV.png
-1_introduction/figures/Victor6000-ROV-Ship.png
-1_introduction/figures/SeagliderAUV.png
-1_introduction/figures/Sparus2.png
-2_state_of_the_art/state_of_the_art.tex
- ufplmbb.fd    2003/10/30 Fontinst v1.914 font definitions for U/fplmbb.
-2_state_of_the_art/figures/collision-free-path.png
-2_state_of_the_art/figures/Bug1.png
-2_state_of_the_art/figures/Bug2.png
-2_state_of_the_art/figures/Bug2-complex.png
-2_state_of_the_art/figures/TangentBug-Boundaries.png
-2_state_of_the_art/figures/TangentBug-Execution.png
-2_state_of_the_art/figures/Grid-BasedNarrowPassagesNoValid.png
-2_state_of_the_art/figures/Grid-BasedNarrowPassagesValid.png
-2_state_of_the_art/figures/Dijkstra.png
-2_state_of_the_art/figures/Astar.png
-2_state_of_the_art/figures/PotentialFieldTop.png
-2_state_of_the_art/figures/PotentialFieldPerspective.png
-2_state_of_the_art/figures/VisibilityGraph1.png
-2_state_of_the_art/figures/VisibilityGraph2.png
-2_state_of_the_art/figures/VoronoiDiagram.png
-2_state_of_the_art/figures/PRM.png
-2_state_of_the_art/figures/RRT-Expansion.png
-2_state_of_the_art/figures/RRT-Solve-Query.png
-2_state_of_the_art/figures/RRTStar-Expansion.png
-2_state_of_the_art/figures/PlannGeomConstr.png
-2_state_of_the_art/figures/PlannDiffConstr.png
-2_state_of_the_art/figures/CPP-NaturalFormation.png
-2_state_of_the_art/figures/CPP-ShipHull.png
-2_state_of_the_art/figures/SensorBasedConstrainedAUV.png
-2_state_of_the_art/figures/CostFunctionConstrainedAUV-a.png
-2_state_of_the_art/figures/CostFunctionConstrainedAUV-b.png
-2_state_of_the_art/figures/CostFunctionConstrainedAUV-c.png
-2_state_of_the_art/figures/GridBasedLocalConstrAUV-a.png
-2_state_of_the_art/figures/GridBasedLocalConstrAUV-b.png
-3_motion_constraints/planning_motion_constraints.tex
-3_motion_constraints/figures/RefFramesAUV2D.png
-3_motion_constraints/figures/ControlInputSampling.png
-3_motion_constraints/figures/ExpansionRRTDiff-a.png
-3_motion_constraints/figures/ExpansionRRTDiff-b.png
-3_motion_constraints/figures/ExpansionRRTDiff-c.png
-3_motion_constraints/figures/DubinsRSL.png
-3_motion_constraints/figures/DubinsLRL.png
-3_motion_constraints/figures/ExpansionRRTDubins-a.png
-3_motion_constraints/figures/ExpansionRRTDubins-b.png
-3_motion_constraints/figures/ExpansionRRTDubinsComplete.png
-3_motion_constraints/figures/ReconnectionRRTstarDubins-a.png
-3_motion_constraints/figures/ReconnectionRRTstarDubins-b.png
-3_motion_constraints/figures/ReconnectionRRTstarDubins-c.png
-3_motion_constraints/figures/PlannGeomRRTScen2.png
-3_motion_constraints/figures/PlannGeomRRTstarScen2.png
-3_motion_constraints/figures/PlannGeomRRTstarQ1Miss.png
-3_motion_constraints/figures/PlannGeomRRTstarQ2Miss.png
-3_motion_constraints/figures/PlannKinodRRTQ1Miss.png
-3_motion_constraints/figures/PlannKinodRRTQ2Miss.png
-3_motion_constraints/figures/PlannDubinsRRTstarQ1Miss.png
-3_motion_constraints/figures/PlannDubinsRRTstarQ2Miss.png
-4_planning_3D/planning_3D.tex
-4_planning_3D/figures/RefFramesAUV3D.png
-4_planning_3D/figures/S2StraightDescentWithoutPitch.png
-4_planning_3D/figures/S2DescentConstraintValid.png
-4_planning_3D/figures/S2DescentConstraintNoValid.png
-4_planning_3D/figures/S2PlannOffBlocksRRTstarGeom3D_top.png
-4_planning_3D/figures/S2PlannOffBlocksRRTstarGeom3D_front.png
-4_planning_3D/figures/S2PlannOffBlocksRRTstarGeom3D_back.png
-4_planning_3D/figures/CircDescDubinsRRTstar3D_Top.png
-4_planning_3D/figures/CircDescDubinsRRTstar3D_Top_.png
-4_planning_3D/figures/CircDescDubinsRRTstar3D_11.png
-4_planning_3D/figures/CircDescDubinsRRTstar3D_11_.png
-4_planning_3D/figures/S2PlannOffBlocksRRTstarDubins3D_top.png
-4_planning_3D/figures/S2PlannOffBlocksRRTstarDubins3D_front.png
-4_planning_3D/figures/S2PlannOffBlocksRRTstarDubins3D_back.png
-4_planning_3D/figures/S2PlannOffSeamountRRTstDubins3D_Top.png
-4_planning_3D/figures/S2PlannOffSeamountRRTstDubins3D_B.png
-4_planning_3D/figures/S2PlannOffSeamountRRTstDubins3D_C.png
-4_planning_3D/figures/S2PlannOffSeamountRRTstDubins3D_D.png
-6_applications/applications.tex
-6_applications/figures/BreakwaterStructureSatelliteView.png
-6_applications/figures/BreakwaterStructureInternal.jpg
-6_applications/figures/BreakwaterStructureUWsim.png
-6_applications/figures/BreakwaterStructureGPSError.png
-6_applications/figures/S2PayloadEchosMicron.png
-6_applications/figures/S2PayloadDirEchos.png
-6_applications/figures/S2BetweenConcrBlocksAutonomous.jpg
-6_applications/figures/S2BlocksMultS2GQ1.png
-6_applications/figures/S2BlocksMultS2GQ2.png
-6_applications/figures/S2BlocksMultS2GQ3.png
-6_applications/figures/S2BlocksMultS2GQ3_.png
-6_applications/figures/S2BlocksMultS2GGoogleMaps.png
-6_applications/figures/Breakwater3DReconstruction2.png
-6_applications/figures/Breakwater3DReconstruction3.png
-6_applications/figures/Breakwater3DReconstruction4.png
-6_applications/figures/RockyFormationCanyonSatelliteView.jpg
-6_applications/figures/RockyFormationCanyonInner.jpg
-6_applications/figures/RockyFormationCanyonOuter.jpg
-6_applications/figures/S2PayloadProfilerCameras.png
-6_applications/figures/S2PayloadProfCamsReal.jpg
-6_applications/figures/S2CanyonMultS2GQ1_1.png
-6_applications/figures/S2CanyonMultS2GQ1_2.png
-6_applications/figures/S2CanyonMultS2GQ2.png
-6_applications/figures/S2CanyonMultS2GQ3.png
-6_applications/figures/3D_topdown_marked.png
-6_applications/figures/3D_canyon.png
-6_applications/figures/3D_outside.png
-6_applications/figures/camType_tex_zoom.png
-6_applications/figures/SPARUS-Real-Canyon-Scenario5.png
-6_applications/figures/CavesSatellite.png
-6_applications/figures/Caves3DMesh.jpg
-6_applications/figures/CavesUWSim.png
-6_applications/figures/CavesMultS2G_Q2_RViz.png
-6_applications/figures/CavesMultS2G_Q2_UWSim.png
-6_applications/figures/CavesMultS2G_Q3_RViz.png
-6_applications/figures/CavesMultS2G_Q3_UWSim.png
-6_applications/figures/CavesMultS2G_Q4_RViz.png
-6_applications/figures/CavesMultS2G_Q5_RViz.png
-6_applications/figures/CavesMultS2G_TopMap.png
-6_applications/figures/CavesMultS2G_TopTraj.png
-6_applications/figures/CavesMultS2G_FrontMap.png
-6_applications/figures/CavesMultS2G_FrontTraj.png
-6_applications/figures/CavesMultS2G_BackMap.png
-6_applications/figures/CavesMultS2G_BackTraj.png
-6_applications/figures/BackseatDiagram.png
-6_applications/figures/AsterXDeployment1.jpg
-6_applications/figures/AsterXDeployment2.jpg
-6_applications/figures/AsterXDeployment3.jpg
-6_applications/figures/AsterXMission1_.png
-6_applications/figures/AsterXMission2_.png
-6_applications/figures/AsterXMission3_.png
-6_applications/figures/AsterXMission4_.png
-7_conclusions/conclusions.tex
 A_experimental_platform/experimental_platform.tex
 A_experimental_platform/figures/Sparus2FullReal.png
 A_experimental_platform/figures/Sparus2FullTop.png
@@ -5078,19 +2622,10 @@ A_experimental_platform/figures/AsterX-Software-Architecture.png
  ***********
 
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 158.
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 231711E0FAD5785DA772EEEC39D20DFA;5548
-(rerunfilecheck)             After:  61719900E4FBD61E43C2E4325E67F755;5492.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 3621F790014307D111A5B5C44F195A06;1031.
 
 LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 
 Package biblatex Warning: Please (re)run BibTeX on the file(s):
@@ -5107,37 +2642,27 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 ### bottom level
 (\end occurred when \iftrue on line 80 was incomplete) 
 Here is how much of TeX's memory you used:
- 33987 strings out of 493029
- 632443 string characters out of 6136233
- 975517 words of memory out of 5000000
- 36055 multiletter control sequences out of 15000+600000
- 111186 words of font info for 178 fonts, out of 8000000 for 9000
+ 31545 strings out of 493029
+ 566660 string characters out of 6136233
+ 896585 words of memory out of 5000000
+ 34372 multiletter control sequences out of 15000+600000
+ 81230 words of font info for 110 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 76i,23n,98p,10515b,25100s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): na
-me{dummy.7} has been referenced but does not exist, replaced by a fixed one
-
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/public/amsfonts/euler/euex10.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/euler/eufm10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+ 68i,22n,92p,10515b,23742s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf
+-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/pu
 blic/amsfonts/euler/eurb10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
-c/amsfonts/euler/eurm10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/euler/eurm7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
-nts/euler/eusm10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fpl/fplb
-j8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/mathpazo/fplmbb.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/bera/fvmr8a.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/pala
-tino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a
-.pfb>
-Output written on main.pdf (114 pages, 62982028 bytes).
+c/amsfonts/euler/eurm10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/f
+pl/fplbj8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fpl/fplrc8a.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/font
+s/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/
+palatino/uplri8a.pfb>
+Output written on main.pdf (23 pages, 11550462 bytes).
 PDF statistics:
- 2621 PDF objects out of 2984 (max. 8388607)
- 2151 compressed objects within 22 object streams
- 607 named destinations out of 1000 (max. 500000)
- 23746 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 352 PDF objects out of 1000 (max. 8388607)
+ 297 compressed objects within 3 object streams
+ 98 named destinations out of 1000 (max. 500000)
+ 16542 words of extra memory for PDF output out of 17280 (max. 10000000)
 
