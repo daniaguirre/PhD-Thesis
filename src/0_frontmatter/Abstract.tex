@@ -10,54 +10,9 @@
 
 \chapter*{Abstract}
 
-Since their beginning in the late 1950s, the capabilities and applications of
-\acp{AUV} have continuously evolved. Their most common applications include
-imaging and inspecting different kinds of structures on the sea floor as well as
-collecting oceanographic information: biological, chemical, and even
-archaeological data.
-
-Most of these applications require \textit{a priori} information of the area or
-structure to be inspected, either to navigate at a safe and conservative
-altitude or to pre-calculate a survey path. However there are other applications
-where it's unlikely that such information is available (\eg exploring confined
-natural environments like underwater caves). In these scenarios, \acp{AUV} must
-operate in unexplored and cluttered environments, and therefore are more exposed
-to collisions.
-
-Although these \ac{AUV} applications share some common requirements with other
-aerial and terrestrial robots (\eg localization, mapping, vision, etc.), they
-are also different in significant ways. Navigating autonomously while conducting
-these type of tasks in underwater environments demands taking into account
-factors such as: the presence of external disturbances (currents), low-range
-visibility and limited navigation accuracy. Dealing with such constraints
-requires a path planner with online capabilities that can overcome the lack of
-environment information and the global position inaccuracy, especially when
-navigating in close proximity to nearby obstacles.
-
-In this respect, this thesis presents an approach that endows an \ac{AUV} with the
-capabilities to move through unexplored environments. To do so, it
-proposes a computational framework for planning feasible and safe paths
-online. This approach allows the vehicle to incrementally build a map of
-the surroundings, while simultaneously (re)plan a feasible path to a
-specified goal. To accomplish this, the framework takes into account motion constraints
-in planning feasible 2D and 3D paths, \ie those that meet the vehicle's motion
-capabilities. It also incorporates a risk function to avoid navigating close to
-nearby obstacles.
-
-To evaluate the proposed approach in different real-world scenarios, a series of
-trials were conducted with the Sparus~II and the AsterX \acp{AUV},
-torpedo-shaped vehicles that performed autonomous missions. These experiments
-include simulated and in-water trials in different environments, such as
-artificial marine structures, natural marine structures, and confined natural
-environments.
-
+Since \ac{WMGR}  \textit{a priori} (\eg exploring confined
+natural environments like underwater caves). In these scenarios, \acp{WMGR} 
 \vfill
-
-% \begin{otherlanguage}{ngerman}
-% \pdfbookmark[1]{Zusammenfassung}{Zusammenfassung}
-% \chapter*{Zusammenfassung}
-% Kurze Zusammenfassung des Inhaltes in deutscher Sprache\dots 
-% \end{otherlanguage}
 
 \endgroup			
 

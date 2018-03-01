@@ -1,0 +1,51 @@
+% this file is called up by thesis.tex
+% content in this file will be fed into the main document
+
+%: ----------------------- name of chapter  -------------------------
+\chapter{Performance Evaluation}
+\label{ch:performance_evaluation} % top level followed by section,
+% subsection
+
+
+%: ----------------------- paths to graphics ------------------------
+
+% change according to folder and file names
+\ifpdf
+    \graphicspath{{6_performance_evaluation/figures/PNG/}{6_performance_evaluation/figures/PDF/}{6_performance_evaluation/figures/}}
+\else
+    \graphicspath{{6_performance_evaluation/figures/EPS/}{6_performance_evaluation/figures/}}
+\fi
+
+%: ----------------------- contents from here ------------------------
+\section{Stretch}
+
+\section{Space Requirements}
+
+ \subsection{Node Label}
+
+    \subsubsection{Source Routing}
+
+    \subsubsection{Hop-by-hop Routing}
+
+  \subsection{Automatic Structures}
+
+\section{Forwarding Desicion Time}
+
+    \subsection{Source Routing}
+
+    \subsection{Hop-by-hop Routing}
+
+\section{Convergence Time of Fault-tolerant Rounting}
+
+\section{Message Complexity}
+
+    \subsection{Node Label Assigment}
+
+    \subsection{Failures Notification}
+
+    \subsection{Recovery Notification}
+
+% ---------------------------------------------------------------------------
+%: ----------------------- end of thesis sub-document ------------------------
+% ---------------------------------------------------------------------------
+

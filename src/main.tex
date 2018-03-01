@@ -47,10 +47,6 @@
 %********************************************************************
 % Bibliographies
 %*******************************************************
-% \addbibresource{0_frontmatter/PhDThesis.bib}
-% \addbibresource[label=ownpubs]{0_frontmatter/JDHVPublications.bib}
-%\addsectionbib{0_frontmatter/JDHVPublications.bib}
-\addbibresource{0_frontmatter/DAGPublications.bib}
 \addbibresource{0_frontmatter/PhDThesis.bib}
 
 
@@ -64,41 +60,24 @@
 %*******************************************************
 \DeclareMathOperator*{\argmin}{arg\,min}
 \DeclareMathOperator*{\argmax}{arg\,max}
-% \newcommand*{\argminl}{\argmin\limits}
-% \newcommand*{\argmaxl}{\argmax\limits}
-
-%\includeonly{1_introduction/introduction}
-%\includeonly{2_state_of_the_art/state_of_the_art}
-%\includeonly{3_motion_constraints/planning_motion_constraints}
-%\includeonly{4_planning_3D/planning_3D}
-%\includeonly{5_planning_online/planning_online}
-%\includeonly{6_applications/applications}
-%\includeonly{7_conclusions/conclusions}
-%\includeonly{A_experimental_platform/experimental_platform}
-%\includeonly{B_path_track_control/path_track_control}
 
 \begin{document}
 \frenchspacing
 \raggedbottom
 \selectlanguage{american} % american ngerman
-%\renewcommand*{\bibname}{new name}
-%\setbibpreamble{}
 \pagenumbering{roman}
 \pagestyle{plain}
 %********************************************************************
 % Frontmatter
 %*******************************************************
-%\include{0_frontmatter/DirtyTitlepage}
 \include{0_frontmatter/Coverpage}
 \include{0_frontmatter/Titleback}
 \include{0_frontmatter/Titlepage}
 \include{0_frontmatter/Titleback}
-%\cleardoublepage\include{FrontBackmatter/Dedication}
-%\cleardoublepage\include{FrontBackmatter/Foreword} NO***********
 \cleardoublepage
 \include{0_frontmatter/Declaration}
 \include{0_frontmatter/Titleback}
-%\include{0_frontmatter/Acknowledgments}
+\include{0_frontmatter/Acknowledgments}
 \include{0_frontmatter/Titleback}
 \include{0_frontmatter/Publications}
 \pagestyle{scrheadings}
@@ -115,43 +94,54 @@
 % Mainmatter
 %*******************************************************
 \cleardoublepage\pagenumbering{arabic}
-%\setcounter{page}{90}
-% use \cleardoublepage here to avoid problems with pdfbookmark
 \cleardoublepage
 \acresetall
 
-%\include{1_introduction/introduction}
-%\cleardoublepage
-%\include{2_state_of_the_art/state_of_the_art}
-%\cleardoublepage
-%\include{3_motion_constraints/planning_motion_constraints}
-%\cleardoublepage
-%\include{4_planning_3D/planning_3D}
-%\cleardoublepage
-%\include{5_planning_online/planning_online}
-%\cleardoublepage
-%\include{6_applications/applications}
-%\cleardoublepage
-%\include{7_conclusions/conclusions}
+%*******************************************************
+% Part I
+%*******************************************************
+\ctparttext{You can put some informational part preamble text here. Illo principalmente su nos. Non message \emph{occidental} angloromanic da. Debitas effortio simplificate sia se, auxiliar summarios da que, se avantiate publicationes via. Pan in terra summarios, capital interlingua se que. Al via multo esser specimen, campo responder que da. Le usate medical addresses pro, europa origine sanctificate nos se.} % Text on the Part 1 page describing  the content in Part 1
 
-%\include{multiToC} % <--- just debug stuff, ignore for your documents
+\part{Preliminaries} % First part of the thesis
+%*******************************************************
+
+\include{1_introduction/1_introduction}
+\cleardoublepage
+\include{2_preliminaries/2_preliminaries}
+\cleardoublepage
+\include{3_cg_app_routing/3_cg_app_routing}
+\cleardoublepage
+
+%*******************************************************
+% Part II
+%*******************************************************
+\ctparttext{You can put some informational part preamble text here. Illo principalmente su nos. Non message \emph{occidental} angloromanic da. Debitas effortio simplificate sia se, auxiliar summarios da que, se avantiate publicationes via. Pan in terra summarios, capital interlingua se que. Al via multo esser specimen, campo responder que da. Le usate medical addresses pro, europa origine sanctificate nos se.} % Text on the Part 1 page describing  the content in Part II
+
+\part{Word-Metric-based Greedy Routing} % First part of the thesis
+%*******************************************************
+
+\include{4_path_comp_in_cg/4_path_comp_in_cg}
+\cleardoublepage
+\include{5_fault_tolerant/5_fault_tolerant}
+\cleardoublepage
+\include{6_performance_evaluation/6_performance_evaluation}
+\cleardoublepage
+\include{7_conclusions/conclusions}
+
 % ********************************************************************
 % Backmatter
 %*******************************************************
 \appendix
-%\renewcommand{\thechapter}{\alph{chapter}}
 \cleardoublepage
-
 \part*{Appendix}
-\include{A_experimental_platform/experimental_platform}
+%\include{A_experimental_platform/experimental_platform}
 
-% \include{Chapters/Chapter0A}
 %********************************************************************
 % Other Stuff in the Back
 %*******************************************************
 \cleardoublepage\include{0_frontmatter/Bibliography}
-% \cleardoublepage\include{0_frontmatter/Declaration}
-% \cleardoublepage\include{0_frontmatter/Colophon}
+%\cleardoublepage\include{0_frontmatter/Declaration}
+%\cleardoublepage\include{0_frontmatter/Colophon}
 %********************************************************************
 % Game Over: Restore, Restart, or Quit?
 %*******************************************************

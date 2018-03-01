@@ -1,14 +1,79 @@
 \BOOKMARK [0][]{Certificat de Direccio de Tesi.0}{CERTIFICAT DE DIRECCIO DE TESI}{}% 1
-\BOOKMARK [1][-]{publications.1}{Publications}{Certificat de Direccio de Tesi.0}% 2
-\BOOKMARK [1][-]{lof.1}{List of Figures}{Certificat de Direccio de Tesi.0}% 3
-\BOOKMARK [1][-]{lot.1}{List of Tables}{Certificat de Direccio de Tesi.0}% 4
-\BOOKMARK [1][-]{loa.1}{List of Algorithms}{Certificat de Direccio de Tesi.0}% 5
-\BOOKMARK [1][-]{acronyms.1}{Acronyms}{Certificat de Direccio de Tesi.0}% 6
-\BOOKMARK [1][-]{tableofcontents.1}{Contents}{Certificat de Direccio de Tesi.0}% 7
-\BOOKMARK [1][-]{Abstract.1}{Abstract}{Certificat de Direccio de Tesi.0}% 8
-\BOOKMARK [1][-]{Resumen.1}{Resumen}{Certificat de Direccio de Tesi.0}% 9
-\BOOKMARK [1][-]{Resum.1}{Resum}{Certificat de Direccio de Tesi.0}% 10
-\BOOKMARK [-1][]{chapter*.11}{Appendix}{}% 11
-\BOOKMARK [0][]{appendix.A}{A Experimental Platforms}{chapter*.11}% 12
-\BOOKMARK [1][-]{section.A.1}{A.1 Sparus II AUV}{appendix.A}% 13
-\BOOKMARK [1][-]{section.A.2}{A.2 AsterX AUV}{appendix.A}% 14
+\BOOKMARK [1][-]{acknowledgments.1}{Acknowledgments}{Certificat de Direccio de Tesi.0}% 2
+\BOOKMARK [1][-]{publications.1}{Publications}{Certificat de Direccio de Tesi.0}% 3
+\BOOKMARK [1][-]{lof.1}{List of Figures}{Certificat de Direccio de Tesi.0}% 4
+\BOOKMARK [1][-]{lot.1}{List of Tables}{Certificat de Direccio de Tesi.0}% 5
+\BOOKMARK [1][-]{loa.1}{List of Algorithms}{Certificat de Direccio de Tesi.0}% 6
+\BOOKMARK [1][-]{acronyms.1}{Acronyms}{Certificat de Direccio de Tesi.0}% 7
+\BOOKMARK [1][-]{tableofcontents.1}{Contents}{Certificat de Direccio de Tesi.0}% 8
+\BOOKMARK [1][-]{Abstract.1}{Abstract}{Certificat de Direccio de Tesi.0}% 9
+\BOOKMARK [1][-]{Resumen.1}{Resumen}{Certificat de Direccio de Tesi.0}% 10
+\BOOKMARK [1][-]{Resum.1}{Resum}{Certificat de Direccio de Tesi.0}% 11
+\BOOKMARK [-1][]{part.1}{Preliminaries}{}% 12
+\BOOKMARK [0][]{chapter.1}{1 Introduction}{part.1}% 13
+\BOOKMARK [1][-]{section.1.1}{1.1 Motivation}{chapter.1}% 14
+\BOOKMARK [1][-]{section.1.2}{1.2 Problem Statement}{chapter.1}% 15
+\BOOKMARK [1][-]{section.1.3}{1.3 Objectives}{chapter.1}% 16
+\BOOKMARK [1][-]{section.1.4}{1.4 Contributions}{chapter.1}% 17
+\BOOKMARK [1][-]{section.1.5}{1.5 How to Read this Thesis}{chapter.1}% 18
+\BOOKMARK [0][]{chapter.2}{2 Theoretical Framework}{part.1}% 19
+\BOOKMARK [1][-]{section.2.1}{2.1 Graph Theory}{chapter.2}% 20
+\BOOKMARK [1][-]{section.2.2}{2.2 Finite State Automata}{chapter.2}% 21
+\BOOKMARK [2][-]{subsection.2.2.1}{2.2.1 Regular Languages}{section.2.2}% 22
+\BOOKMARK [2][-]{subsection.2.2.2}{2.2.2 2-variable Finite State Automata}{section.2.2}% 23
+\BOOKMARK [2][-]{subsection.2.2.3}{2.2.3 Existential Quantification}{section.2.2}% 24
+\BOOKMARK [1][-]{section.2.3}{2.3 Group Theory}{chapter.2}% 25
+\BOOKMARK [2][-]{subsection.2.3.1}{2.3.1 Finitely Presented Groups}{section.2.3}% 26
+\BOOKMARK [2][-]{subsection.2.3.2}{2.3.2 Group Homomorphism}{section.2.3}% 27
+\BOOKMARK [2][-]{subsection.2.3.3}{2.3.3 Abelian Groups}{section.2.3}% 28
+\BOOKMARK [2][-]{subsection.2.3.4}{2.3.4 Cayley Graphs}{section.2.3}% 29
+\BOOKMARK [1][-]{section.2.4}{2.4 Automatic Groups}{chapter.2}% 30
+\BOOKMARK [2][-]{subsection.2.4.1}{2.4.1 Automatic Structures}{section.2.4}% 31
+\BOOKMARK [2][-]{subsection.2.4.2}{2.4.2 Words as Nodes and Paths}{section.2.4}% 32
+\BOOKMARK [2][-]{subsection.2.4.3}{2.4.3 Solving the Shortest Path Problem in Cayley Graphs}{section.2.4}% 33
+\BOOKMARK [0][]{chapter.3}{3 Cayley Graphs: Applications and Routing Algorithms}{part.1}% 34
+\BOOKMARK [1][-]{section.3.1}{3.1 Topological Properties of Cayley Graphs}{chapter.3}% 35
+\BOOKMARK [1][-]{section.3.2}{3.2 Applications}{chapter.3}% 36
+\BOOKMARK [2][-]{subsection.3.2.1}{3.2.1 Interconnection Networks}{section.3.2}% 37
+\BOOKMARK [2][-]{subsection.3.2.2}{3.2.2 Error Correcting Codes}{section.3.2}% 38
+\BOOKMARK [2][-]{subsection.3.2.3}{3.2.3 Hash Functions}{section.3.2}% 39
+\BOOKMARK [1][-]{section.3.3}{3.3 Routing Algorithms}{chapter.3}% 40
+\BOOKMARK [2][-]{subsection.3.3.1}{3.3.1 Performance Metrics}{section.3.3}% 41
+\BOOKMARK [2][-]{subsection.3.3.2}{3.3.2 Sims Factoring Algorithm}{section.3.3}% 42
+\BOOKMARK [2][-]{subsection.3.3.3}{3.3.3 Permutation-sort Algorithm}{section.3.3}% 43
+\BOOKMARK [2][-]{subsection.3.3.4}{3.3.4 Routing Algorithm for Boreal Cayley Graphs}{section.3.3}% 44
+\BOOKMARK [-1][]{part.2}{Word-Metric-based Greedy Routing}{}% 45
+\BOOKMARK [0][]{chapter.4}{4 Path Computation in Cayley Graphs}{part.2}% 46
+\BOOKMARK [1][-]{section.4.1}{4.1 Distributed Configuration}{chapter.4}% 47
+\BOOKMARK [2][-]{subsection.4.1.1}{4.1.1 Memory Space Requirements}{section.4.1}% 48
+\BOOKMARK [1][-]{section.4.2}{4.2 Computing the Shortest Path}{chapter.4}% 49
+\BOOKMARK [1][-]{section.4.3}{4.3 Computing the K-Shortest Paths}{chapter.4}% 50
+\BOOKMARK [1][-]{section.4.4}{4.4 Computing the Shortest Node-disjoint Shortest Paths}{chapter.4}% 51
+\BOOKMARK [1][-]{section.4.5}{4.5 Computing the Shortest Edge-disjoint Shortest Paths}{chapter.4}% 52
+\BOOKMARK [0][]{chapter.5}{5 Fault-tolerant Routing in Cayley Graphs}{part.2}% 53
+\BOOKMARK [1][-]{section.5.1}{5.1 Multiple-node Failures}{chapter.5}% 54
+\BOOKMARK [2][-]{subsection.5.1.1}{5.1.1 Computing the Shortest Path Avoiding a Set of Nodes}{section.5.1}% 55
+\BOOKMARK [2][-]{subsection.5.1.2}{5.1.2 Node-failure Notification}{section.5.1}% 56
+\BOOKMARK [2][-]{subsection.5.1.3}{5.1.3 Node-failure Recovery}{section.5.1}% 57
+\BOOKMARK [1][-]{section.5.2}{5.2 Multiple-edge Failures}{chapter.5}% 58
+\BOOKMARK [2][-]{subsection.5.2.1}{5.2.1 Computing the Shortest Path Avoiding a Set of Edges}{section.5.2}% 59
+\BOOKMARK [2][-]{subsection.5.2.2}{5.2.2 Edge-failure Notification}{section.5.2}% 60
+\BOOKMARK [2][-]{subsection.5.2.3}{5.2.3 Edge-failure Recovery}{section.5.2}% 61
+\BOOKMARK [0][]{chapter.6}{6 Performance Evaluation}{part.2}% 62
+\BOOKMARK [1][-]{section.6.1}{6.1 Stretch}{chapter.6}% 63
+\BOOKMARK [1][-]{section.6.2}{6.2 Space Requirements}{chapter.6}% 64
+\BOOKMARK [2][-]{subsection.6.2.1}{6.2.1 Node Label}{section.6.2}% 65
+\BOOKMARK [2][-]{subsection.6.2.2}{6.2.2 Automatic Structures}{section.6.2}% 66
+\BOOKMARK [1][-]{section.6.3}{6.3 Forwarding Desicion Time}{chapter.6}% 67
+\BOOKMARK [2][-]{subsection.6.3.1}{6.3.1 Source Routing}{section.6.3}% 68
+\BOOKMARK [2][-]{subsection.6.3.2}{6.3.2 Hop-by-hop Routing}{section.6.3}% 69
+\BOOKMARK [1][-]{section.6.4}{6.4 Convergence Time of Fault-tolerant Rounting}{chapter.6}% 70
+\BOOKMARK [1][-]{section.6.5}{6.5 Message Complexity}{chapter.6}% 71
+\BOOKMARK [2][-]{subsection.6.5.1}{6.5.1 Node Label Assigment}{section.6.5}% 72
+\BOOKMARK [2][-]{subsection.6.5.2}{6.5.2 Failures Notification}{section.6.5}% 73
+\BOOKMARK [2][-]{subsection.6.5.3}{6.5.3 Recovery Notification}{section.6.5}% 74
+\BOOKMARK [0][]{chapter.7}{7 Conclusions}{part.2}% 75
+\BOOKMARK [1][-]{section.7.1}{7.1 Summary of Completed Work}{chapter.7}% 76
+\BOOKMARK [1][-]{section.7.2}{7.2 Review of Contributions}{chapter.7}% 77
+\BOOKMARK [1][-]{section.7.3}{7.3 Future Work}{chapter.7}% 78
+\BOOKMARK [-1][]{section.7.3}{Appendix}{}% 79
